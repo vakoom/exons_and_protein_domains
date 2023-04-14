@@ -1,0 +1,29 @@
+'''
+этот код нужен, чтобы ввести координаты границ экзонов
+'''
+
+f = open('CCDS_protein_exons.current.faa', 'r')
+g = open('exons.txt', 'w')
+s = f.readline()
+while s: # new protein
+    exons = []
+    name = s.split('|')[0]
+    inp = f.readline()
+    len_current_exon = 0
+    while '>' not in inp or inp.split('|')[0] == name:
+        if '>' not in inp:
+            len_current_exon += len(inp)
+        elif inp.split('|')[0] == name:
+            if len(exons) >= 0:
+                exons.append(len_current_exon - 1)
+            len_current_exon = 0
+
+
+        inp = f.readline()
+    s = inp
+    if len(exons) >= 0:
+        exons.append(len_current_exon - 1)
+    g.write(name)
+    g.write('\n')
+    g.write('|'.join(str(i) for i in exons))
+    g.write('\n')
