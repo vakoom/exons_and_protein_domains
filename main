@@ -1,0 +1,51 @@
+f = open('exons.txt', 'r')
+name = f.readline()
+exons = f.readline().split('|')
+d = dict()
+while name:
+    name = name[1:-1]        # delete '>' and '\n' in the end
+    exons[-1] = exons[-1][:-1]
+    d[name] = [int(i) for i in exons]
+    name = f.readline()
+    exons = f.readline().split('|')
+
+g = open('CCDS2UniProtKB.current.txt', 'r')
+trash = g.readline()        # line 'ccds	RefSeq	UniProtKB'
+line = g.readline()
+prot_dict = dict()          # key - protein id in UniProt, item - protein id in CCDS
+while line:
+    ccds, RefSeq, UniProt = line.split()
+    prot_dict[UniProt] = ccds
+    line = g.readline()
+
+h = open('domains-filtered.txt', 'r')
+ans = open('answer.txt', 'w')
+domain = h.readline()
+while domain:
+    domain = domain.split()
+    UniProt = domain[0]
+    lenght, start, stop = [int(i) for i in domain[1:4]]
+    type = ' '.join(domain[4:])
+    try:
+        ccds = prot_dict[UniProt]
+    except KeyError:
+        domain = h.readline()
+        continue
+    try:
+        exons = d[ccds]
+    except KeyError:
+        domain = h.readline()
+        continue
+    exons = [0] + exons
+    flag = False
+    for i in range(len(exons) - 1):
+        if exons[i] <= start and stop <= exons[i + 1]:
+            flag = True
+    if flag:
+        ans.write('1')
+    else:
+        ans.write('0')
+    ans.write('\t')
+    ans.write(type)
+    ans.write('\n')
+    domain = h.readline()
