@@ -1,0 +1,9589 @@
+0	ZU5 domain
+0	Zona pellucida domain
+0	Zn-dependent metallo-hydrolase, RNA specificity domain
+0	ZN622/Rei1/Reh1, zinc finger C2H2-type
+0,333333333	Zinc-finger CCCH domain
+1	Zinc-finger C2H2-type 11
+0	Zinc/iron permease
+1	Zinc knuckle CX2CX3GHX4C
+1	Zinc knuckle
+0	Zinc finger, ZZ-type
+0	Zinc finger, XPA-type, conserved site
+0	Zinc finger, UBR-type
+0,5	Zinc finger, UBP-type
+0,5	Zinc finger, TRAF-type
+0	Zinc finger, TFIIS-type
+0	Zinc finger, TFIIB-type
+0	Zinc finger, SWIM-type
+1	Zinc finger, RING-type, eukaryotic
+0,647058824	Zinc finger, RING-type
+0,5	Zinc finger, RING-CH-type
+1	Zinc finger, RanBP2-type
+0,428571429	Zinc finger, PHD-finger
+0	Zinc finger, PARP-type
+0,25	Zinc finger, nuclear hormone receptor-type
+1	Zinc finger, nanos-type
+0,5	Zinc finger, MYND-type
+0,5	Zinc finger, MYM-type
+0	Zinc finger, MIZ-type
+0,310344828	Zinc finger, LIM-type
+1	Zinc finger, HIT-type
+0,5	Zinc finger, GRF-type
+1	Zinc finger, GATA-type
+1	Zinc finger, FPG/IleRS-type
+0,666666667	Zinc finger, double-stranded RNA binding
+0	Zinc finger, DNL-type
+0	Zinc finger, DBF-type
+0	Zinc finger, CHHC-type
+0	Zinc finger, CHCC-type
+0,5	Zinc finger, CCHC-type
+0,666666667	Zinc finger, CCCH-type
+0,875	Zinc finger, C3HC4 RING-type
+0	Zinc finger, C2HC5-type
+0,333333333	Zinc finger, C2H2C-type
+0	Zinc finger, C2H2, LYAR-type
+0,5	Zinc finger, Btk motif
+1	Zinc finger, BED-type
+0,2	Zinc finger, AN1-type
+0,833333333	Zinc finger, A20-type
+0	Zinc finger protein NOA36
+0	Zinc finger domain-containing protein 24, zinc-binding domain
+0,966952264	Zinc finger C2H2-type
+0	Zinc chaperone CobW-like, C-terminal
+1	ZIC protein, zinc finger domain
+1	ZHX, C2H2 finger domain
+0	ZAR1/RTP1-5-like, 3CxxC-type zinc finger
+0,333333333	YTH domain
+0	YjgF/YER057c/UK114 family
+0	YjeF N-terminal domain
+0	Yippee/Mis18/Cereblon
+0	Yip1 domain
+0	YEATS
+0	YAP binding domain
+0	Xylosyltransferase, C-terminal
+0	XRN2-binding (XTBD) domain
+0	XPG-I domain
+0	XPG, N-terminal
+0	XPA, C-terminal
+0	XLR/SYCP3/FAM9 domain
+0	XK-related protein
+1	XAP5 protein
+1	WxxW domain
+0,333333333	WWE domain
+0	WW domain-binding protein 1-like
+0	WW domain binding protein 11
+1	WW domain
+0	Wolframin, Sel1-like repeat
+1	Wolframin, OB-fold domain
+0	Wolframin, EF-hand domain
+1	Wolframin, cysteine-rich domain
+0	Wnt
+0	WKF domain
+0	WIF domain
+0,333333333	WHEP-TRS domain
+0,75	WH2 domain
+0	WH1/EVH1 domain
+0	WGR domain
+0,314516129	WD40 repeat
+0	WASH1, WAHD domain
+0	WASH complex, subunit strumpellin
+0	WASH complex subunit 3
+0,5	WAP-type 'four-disulfide core' domain
+0	W2 domain
+0,692307692	VWFC domain
+0,2	VWF/SSPO/Zonadhesin-like, cysteine-rich domain
+0	V-type ATPase, V0 complex, 116kDa subunit family
+1	V-type ATPase subunit E
+0	v-SNARE, coiled-coil homology domain
+0	Vps55/LEPROT
+0,666666667	Vps4 oligomerisation, C-terminal
+0	von Willebrand factor, type D domain
+0	von Willebrand factor, type A
+0	Voltage-dependent L-type calcium channel, IQ-associated domain
+0	Voltage-dependent calcium channel, alpha-1 subunit, IQ domain
+1	Voltage-dependent calcium channel gamma-like subunit
+0	Vms1-associating treble clef domain
+0	VLRF1/Vms1
+0	Vitellogenin, N-terminal
+0	Vitellinogen, open beta-sheet
+0	VIT domain
+0	Vinculin-binding site-containing domain
+0,2	Vesicle transport protein, Got1/SFT2-like
+1	Vertebrate interleukin-3 regulated transcription factor
+1	V-D-J recombination activating protein 2
+0	V-ATPase proteolipid subunit C-like domain
+1	Vasopressin V1 receptor, C-terminal
+0	Vasculin family
+0	Vanin, C-terminal
+0	Vang-like protein
+0	Vacuolar sorting protein 39/Transforming growth factor beta receptor-associated domain 2
+0	Vacuolar sorting protein 39/Transforming growth factor beta receptor-associated domain 1
+0	Vacuolar protein sorting-associated protein 35
+0	Vacuolar protein sorting-associated protein 13-like, N-terminal domain
+0	Vacuolar protein sorting protein 26 related
+0	Vacuolar (H+)-ATPase G subunit
+0	Uroporphyrinogen decarboxylase (URO-D)
+0	Uroplakin-2
+0	Ureohydrolase
+0	Uracil-DNA glycosylase-like
+0	Up-frameshift suppressor 2, C-terminal
+1	UPF0767 family
+0	UPF0708 protein C6orf162
+0	UPF0688 family
+1	UPF0669 protein C6orf120
+0	UPA domain
+0	Uncharacterized protein C5orf52
+0	Uncharacterized protein C2orf80
+1	Uncharacterized protein C10orf62
+0	Uncharacterised protein family, transmembrane-17
+0	Uncharacterised protein family, TMEM59
+0	Uncharacterised protein family, CD034/YQF4
+1	Uncharacterised protein family UPF0574
+0	Uncharacterised protein family UPF0538
+0	Uncharacterised protein family UPF0220
+0	Uncharacterised protein FAM166/UPF0605
+1	Uncharacterised protein C6orf15
+1	UNC119-binding protein
+1	Ulp1 protease family, C-terminal catalytic domain
+0,125	UDP-glucuronosyl/UDP-glucosyltransferase
+0	uDENN domain
+0,25	UBX domain
+1	Ubl4, C-terminal TUGS domain
+0	UBL3-like, ubiquitin domain
+0,72	Ubiquitin-like domain
+0	Ubiquitin-fold modifier-conjugating enzyme 1
+0	Ubiquitin-conjugating enzyme E2-binding protein
+0,166666667	Ubiquitin-conjugating enzyme E2
+0,333333333	Ubiquitin-associated domain
+0	Ubiquinol-cytochrome-c reductase complex assembly factor 5
+0,5	Ubiquinol-cytochrome C reductase hinge domain
+0	UbiE/COQ5 methyltransferase
+0	U4/U6.U5 small nuclear ribonucleoprotein 27kDa protein
+0	U3 small nucleolar RNA-associated protein 25
+0	U3 small nucleolar RNA-associated protein 20, N-terminal
+0	U3 small nucleolar RNA-associated protein 20, C-terminal
+0	U3 small nucleolar RNA-associated protein 10, N-terminal
+0	U3 small nucleolar ribonucleoprotein complex, subunit Mpp10
+0	U1-C, C2H2-type zinc finger
+0	Tyrosine-specific protein phosphatase, PTPase domain
+0	Tyrosinase copper-binding domain
+0	Type II pantothenate kinase
+0	Type II CAAX prenyl endopeptidase Rce1-like
+0	Type I phosphodiesterase/nucleotide pyrophosphatase/phosphate transferase
+0	Type 1 protein phosphatase inhibitor
+1	Tumour necrosis factor domain
+1	Tumor necrosis factor alpha-induced protein 8-like
+0,875	Tudor domain
+0,333333333	Tubulin-tyrosine ligase/Tubulin polyglutamylase
+1	Tubulin-specific chaperone C, N-terminal
+0	Tubulin/FtsZ, GTPase domain
+0,666666667	Tubulin/FtsZ, 2-layer sandwich domain
+0	Tubulin polymerization-promoting protein
+1	Tubulin binding cofactor C-like domain
+0	Tti2 family
+0	TTDN1/Protein SICKLE
+0	TSSK6-activating co-chaperone protein
+0	Tryptophan synthase beta chain-like, PALP domain
+0	Tryptophan 2,3-dioxygenase
+0,5	Trypsin Inhibitor-like, cysteine rich domain
+0	TRPM, tetramerisation domain
+0	TRPM, SLOG domain
+1	TRP-interacting helix, InaF motif
+0	Troponin
+0	Tropomodulin
+0	tRNAHis guanylyltransferase catalytic domain
+0	tRNA-binding domain
+0	tRNA/rRNA methyltransferase, SpoU type
+0	tRNA synthetases class I, catalytic domain
+0	tRNA methyltransferase TRMD/TRM10-type domain
+0	tRNA (1-methyladenosine) methyltransferase catalytic subunit Gcd14
+0	TrmO-like, N-terminal domain
+1	TRM13/UPF0224 family, U11-48K-like CHHC zinc finger domain
+0	Trm112-like
+0	Triple repetitive-sequence of QXXK/R protein
+0	Tripeptidyl peptidase II, Ig-like domain
+0	Trichohyalin-plectin-homology domain
+0	Tricarboxylate/iron carrier
+0	TRIC channel
+0	TRC8-like, N-terminal domain
+0	Transposable element P transposase/THAP9, conserved domain
+1	Transmembrane protein TMEM132, N-terminal
+1	Transmembrane protein TMEM132, C-terminal
+0	Transmembrane protein family 132, middle domain
+1	Transmembrane protein C12orf23, UPF0444
+0	Transmembrane protein 82
+0	Transmembrane protein 65
+0	Transmembrane protein 255
+0	Transmembrane protein 252
+0	Transmembrane protein 247
+0	Transmembrane protein 242
+1	Transmembrane protein 215
+0	Transmembrane protein 170
+0	Transmembrane protein 141
+0	Transmembrane protein 131-like, N-terminal
+0	Transmembrane protein 131-like, conserved domain
+0	Transmembrane protein 127, transmembrane region
+1	Transmembrane protein 119
+0	Transmembrane protein 106
+1	Transmembrane Fragile-X-F-associated protein
+0	Transmembrane and coiled-coil domain-containing protein 2/5
+0	Transmembrane and coiled-coil domain-containing protein 2
+0	Translin-associated factor X-interacting protein 1, N-terminal
+0	Translin family
+0	Translational (tr)-type GTP-binding domain
+0	Translation machinery-associated protein 16
+0	Translation initiation factor IF2/IF5 domain
+0	Translation initiation factor IF- 2, domain 3
+0	Translation Initiation factor eIF- 4e
+1	Translation initiation factor 3, N-terminal
+0	Translation initiation factor 2, alpha subunit
+0,25	Translation elongation factor EFTu-like, domain 2
+0	Translation elongation factor EFTu/EF1A, C-terminal
+0	Translation elongation factor EF1B, beta/delta subunit, guanine nucleotide exchange domain
+0,5	Transketolase-like, pyrimidine-binding domain
+1	Transketolase, N-terminal
+1	Transketolase, C-terminal domain
+0	Transglutaminase-like
+0	Transglutaminase, N-terminal
+0	Transglutaminase, C-terminal
+0,75	Transforming growth factor-beta, C-terminal
+0	Transforming acidic coiled-coil-containing protein, C-terminal
+0	Transferrin receptor-like, dimerisation domain
+0	Transducer of regulated CREB activity, N-terminal
+0	Transducer of regulated CREB activity, middle domain
+0	Transducer of regulated CREB activity, C-terminal
+1	Transcriptional repressor p66, coiled-coil MBD2-interaction domain
+1	Transcriptional repressor NocA-like
+0	Transcriptional coactivator p15 (PC4), C-terminal
+0	Transcriptional coactivator Hfi1/Transcriptional adapter 1
+0,666666667	Transcription termination factor, mitochondrial/chloroplastic
+1	Transcription termination and cleavage factor, C-terminal domain
+0	Transcription regulator Myc, N-terminal
+0	Transcription regulator GCM domain
+0	Transcription initiation factor TFIID, 23-30kDa subunit
+1	Transcription initiation factor TFIID subunit 1, histone acetyltransferase domain
+1	Transcription initiation factor TAFII31
+0	Transcription initiation factor IID, subunit 13
+0	Transcription initiation factor IIA, gamma subunit, N-terminal
+1	Transcription initiation factor IIA, gamma subunit, C-terminal
+0	Transcription factor, MADS-box
+0	Transcription factor TFIIIC, triple barrel domain
+0	Transcription factor TFIIE beta subunit, DNA-binding domain
+1	Transcription factor TFIIE alpha subunit, C-terminal
+0	Transcription factor TFIIB, cyclin-like domain
+1	Transcription factor SOX
+1	Transcription factor Otx, C-terminal
+0	Transcription factor IIS, N-terminal
+0	Transcription factor IIIC, putative zinc-finger
+0	Transcription factor IIIC, 90kDa subunit, N-terminal
+0,2	Transcription factor CBF/NF-Y/archaeal histone domain
+0	Transcription factor AP-2, C-terminal
+0,5	TRAM1-like protein
+0,166666667	TRAM/LAG1/CLN8 homology domain
+0	TraB/PrgY/GumN family
+0	TPMT family
+1	Tox-GHH domain
+0,5	Torsin
+0,666666667	Toll/interleukin-1 receptor homology (TIR) domain
+0,294117647	TNFR/NGFR cysteine-rich region
+1	TNF receptor-associated factor 6, zinc finger 2
+1	TNF receptor family, RELT
+0	TMEM9/TMEM9B
+0	TMEM61 protein family
+0	TMEM33/Pom33 family
+0	TMEM240 family
+0	TMEM210 family
+1	TMEM169 protein
+0	TMEM156 protein
+0	TMEM14 family
+1	TMEM125 protein family
+0	TMEM117 protein
+0	TMC domain
+0,5	TM2 domain
+1	TM140 protein family
+1	TLV/ENV coat polyprotein
+0	TLDc domain
+0	Tis11B-like protein, N-terminal
+0	Tim10-like
+0	Thyrotropin-releasing hormone
+0,285714286	Thyroglobulin type-1
+0	Thrombospondin/cartilage oligomeric matrix protein, coiled-coil domain
+0,333333333	Thrombospondin, type 3-like repeat
+0	Thrombospondin, C-terminal
+0,567567568	Thrombospondin type-1 (TSP1) repeat
+0	Thrombin light chain
+0	Threonylcarbamoyl-AMP synthase-like domain
+0	Threonyl/alanyl tRNA synthetase, SAD
+1	Threonine synthase, N-terminal
+0	THRAP3/BCLAF1 family
+0,1	Thioredoxin domain
+0	Thioesterase domain
+0	Thg1 C-terminal domain
+0,333333333	THAP-type zinc finger
+0	TGF-beta, propeptide
+0	TFIIH subunit TTDA/Tfb5
+0	TFIIH C1-like domain
+0	TFIIF, beta subunit, N-terminal
+0	TFIIF beta subunit, HTH domain
+1	TFIIEalpha/SarR/Rpc3 HTH domain
+0	TFA2, Winged helix domain 2
+0	Tetratricopeptide repeat-like domain
+0	Tetratricopeptide repeat protein 5, OB fold domain
+1	Tetratricopeptide repeat 2
+0,166666667	Tetratricopeptide repeat 1
+0,470588235	Tetratricopeptide repeat
+0	Tetraspanin/Peripherin
+0	Tetrapyrrole biosynthesis, uroporphyrinogen III synthase
+0	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+0	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain
+0	Testis-specific protein TEX28/transmembrane and coiled-coil domains protein
+0	Testis-specific gene 13 protein
+1	Testis-expressed sequence 38 protein
+0	Testis-expressed sequence 37 protein
+0	Testis-expressed sequence 29 protein
+0	Testicular haploid expressed repeat
+0,5	Terminal nucleotidyltransferase
+0	Teneurin intracellular, N-terminal
+1	Tenascin, EGF-like domain
+0	Telomere-length maintenance and DNA damage repair
+0	Telomere repeats-binding bouquet formation protein 2
+0	Telomere length and silencing protein 1-like
+0	Telomerase activating protein Est1-like, N-terminal
+0	TEA/ATTS domain
+0	T-complex 11
+0	TCL1/MTCP1
+0	T-cell surface glycoprotein CD3 zeta subunit/High affinity IgE receptor gamma subunit
+0	T-cell leukemia translocation-altered gene protein
+0	T-box transcription factor, DNA-binding domain
+0	TBC1 domain family member 30, C-terminal
+0,538461538	TB domain
+0	Taxilin family
+0	TATA-box binding protein
+1	Taste receptor type 2
+0	Target SNARE coiled-coil homology domain
+0	TANK-binding kinase 1, coiled-coil domain 1
+0	TANK binding kinase 1, ubiquitin-like domain
+0	Talin, N-terminal F0 domain
+0	Talin, central
+0,75	Tail specific protease
+1	TAFII55 protein, conserved region
+1	TAFII28-like protein domain
+1	TAFII-230 TBP-binding
+0	T cell CD4 receptor C-terminal region
+0	Synuclein
+0,5	Syntaxin, N-terminal domain
+0	Syndecan/Neurexin domain
+0	Synaptonemal complex protein 1
+0	Synaptonemal complex central element protein 1
+0	Synaphin
+0	Svp26/Tex261
+0	Suv3, N-terminal
+0	Suv3, C-terminal domain 1
+0,641509434	Sushi/SCR/CCP domain
+0	Survival motor neuron, Tudor domain
+0	Surfeit locus protein 2
+0	Surfactant-associated protein 2
+0	Suppressor of forked
+1	Superoxide dismutase, copper/zinc binding domain
+0	SUN domain
+0	Sulphate adenylyltransferase catalytic domain
+0	Sulfur carrier ThiS/MoaD-like
+0,444444444	Sulfotransferase domain
+0,4	Sulfotransferase
+0	Sulfite reductase [NADPH] flavoprotein alpha-component-like, FAD-binding
+0	Sulfhydryl oxidase, Trx-like domain
+0	Sulfhydryl oxidase, flavin adenine dinucleotide (FAD) binding domain
+0	Sulfatase, N-terminal
+0	SUI1 domain
+0	Sugar phosphate transporter domain
+0	Succinate dehydrogenase assembly factor 4
+0	Succinate dehydogenase/fumarate reductase N-terminal
+0	Submaxillary gland androgen-regulated protein like
+0	Stress-associated endoplasmic reticulum protein
+0	Store-operated calcium entry regulator STIMATE/YPL162C
+0	Stimulator of interferon genes protein
+0	Sterol biosynthesis ERG24/DHCR-like
+1	Steroid receptor-associated and regulated protein
+0,555555556	Sterile alpha motif domain
+0	Stathmin family
+0	STAT transcription factor, protein interaction
+0	STAT transcription factor, DNA-binding
+0	STAT transcription factor, all-alpha domain
+0,5	STAS domain
+0	START domain
+0	Staphylococcal nuclease (SNase-like), OB-fold
+0	Stanniocalcin
+1	SSXRD motif
+0	Ssl1-like
+0	SREBP regulating gene protein
+0,1875	SRCR domain
+0	SRA1/Sec31
+0	Squalene epoxidase
+0,5	SPRY-associated
+0,875	SPRY domain
+1	Sprouty
+0,3	Spondin-like TSP1 domain
+1	Splicing factor SF3a60 binding domain
+0	Splicing factor SF3a60 /Prp9 subunit, C-terminal
+1	Splicing factor 3B subunit 5/RDS3 complex subunit 10
+1	Spindlin/spermiogenesis-specific protein
+0	Spindle assembly abnormal protein 6, N-terminal
+0	Sphingomyelin synthase-like domain
+0	Sphingolipid delta4-desaturase, N-terminal
+0	Spexin
+0,333333333	Sperm-tail PG-rich repeat
+0	Spermidine synthase, tetramerisation domain
+0	Spermatogenesis-associated protein 48
+0	Spermatogenesis-associated protein 46-like
+0	Spermatogenesis-associated protein 3
+0	Sperm equatorial segment protein 1
+0	Sperm acrosome-associated protein 7
+0	Sperm acrosome developmental regulator
+0	Spen paralogue and orthologue SPOC, C-terminal
+0,037037037	Spectrin repeat
+0	SPEC3/Stum
+0	SPATS2-like
+1	SPATA31/FAM205
+0	SPARC/Testican, calcium-binding domain
+1	Sox 7/17/18, central domain
+0	SOUL haem-binding protein
+0	Sorting nexin protein, WASP-binding domain
+0	Sorting nexin 8/Mvp1, BAR domain
+0	Sortilin, N-terminal
+0	Sortilin, C-terminal
+1	Sororin protein
+0	Somatotropin/prolactin
+1	Somatostatin/Cortistatin, C-terminal
+0,75	Somatomedin B domain
+0	Solute carrier family 52, riboflavin transporter
+0	Solute carrier family 35 member SLC35F1/F2/F6
+0	Solute carrier family 13
+0	Sodium-dependent phosphate transport protein
+0	Sodium:neurotransmitter symporter
+0	Sodium:dicarboxylate symporter
+0	Sodium/solute symporter
+0	Sodium/potassium-transporting ATPase subunit beta
+0	Sodium/hydrogen exchanger, regulatory region
+0	Sodium ion transport-associated
+1	SOCS4/SOCS5 domain
+0,625	SOCS box domain
+0	Snurportin-1, N-terminal
+0	SNURF family
+0	snRNA-activating protein complex, subunit 3
+0	snRNA-activating protein complex subunit 1
+0	Snf7 family
+0	SNF2, N-terminal
+0	SNARE-complex protein Syntaxin-18, N-terminal
+0	Snapin/Pallidin/Snn1
+0	Snake toxin/toxin-like
+0	Small-subunit processome, Utp12
+0	Small vasohibin-binding protein
+0,5	Small subunit of serine palmitoyltransferase-like
+1	Small proline-rich protein 2
+1	Small membrane A-kinase anchor protein
+1	Small integral membrane protein 5/18/22
+1	Small integral membrane protein 3
+0	Small integral membrane protein 19
+1	Small integral membrane protein 15
+1	Small integral membrane protein 10
+0	Small integral membrane protein 1
+0,272727273	Small GTPase superfamily, ARF/SAR type
+0,097560976	Small GTPase
+1	Small EDRK-rich factor-like, N-terminal
+0	Small acidic protein-like domain
+0	SMAD domain, Dwarfin-type
+0,125	Sm domain, eukaryotic/archaea-type
+0	SLIDE domain
+0	SLC41A/MgtE, integral membrane domain
+0	SLC26A/SulP transporter domain
+0	SLAIN motif-containing protein
+0	SKP1 component, POZ domain
+0	SKP1 component, dimerisation
+0	SKI-interacting protein SKIP, SNW domain
+0	Ski2, N-terminal domain
+1	SKI/SNO/DAC domain
+0	Sjoegren syndrome/scleroderma autoantigen 1
+0	Six6 opposite strand transcript 1
+0	Sister chromatid cohesion protein Dcc1
+0	SIS domain
+0	Sirtuin family
+0	siRNA-mediated silencing protein NRDE-2
+1	SIPAR domain
+0	Single-minded, C-terminal
+0	Sin3, C-terminal
+0	Signal recognition particle, SRP14 subunit
+0	Signal peptidase complex subunit 3
+0	Signal peptidase complex subunit 2
+0	Sialidase
+0	Short-chain dehydrogenase/reductase SDR
+0	Short transmembrane mitochondrial protein 1
+0,333333333	Shisa family
+1	Shikimate kinase/gluconokinase
+1	Shal-type voltage-gated potassium channels, N-terminal
+0	SH3-binding, glutamic acid-rich protein
+0,27027027	SH3 domain
+0,2	SH2 domain
+0	SGTA, homodimerisation domain
+0	SGF29 tudor-like domain
+0	SF3A3 domain
+1	Seven-in-absentia protein, TRAF-like domain
+0	Seven cysteines, N-terminal
+0	SET domain
+0	Sestrin
+0	Serum amyloid A protein
+0	Serum albumin, N-terminal
+1	SERTA domain
+0	Serpin domain
+0	Serine-tRNA synthetase, type1, N-terminal
+0,038461538	Serine-threonine/tyrosine-protein kinase, catalytic domain
+0	Serine-threonine protein phosphatase, N-terminal
+1	Serine-rich and transmembrane domain-containing protein
+0	Serine/threonine-protein kinase Atg1-like, tMIT domain
+0	Serine/arginine repetitive matrix protein, C-terminal
+0,1	Serine proteases, trypsin domain
+0	Serine incorporator/TMS membrane protein
+1	Serine aminopeptidase, S33
+0	Serglycin
+0	Septin-type guanine nucleotide-binding (G) domain
+0	SEP domain
+0	Senescence/spartin-associated, C-terminal
+0	Sema domain
+0	Selenoprotein, Rdx-type
+0	Selenoprotein S
+0	Selenoprotein P, N-terminal
+1	Selenoprotein P, C-terminal
+0,666666667	Sel1-like repeat
+0	Securin sister-chromatid separation inhibitor
+1	Secretoglobin 3A
+0	Secreted phosphoprotein 24
+0,5	Sec7/BIG1-like, C-terminal domain
+0	Sec7 domain
+0	Sec63 domain
+0	Sec1-like protein
+0	SEA domain
+0	Sds3-like
+0	SDE2-like, C-terminal domain
+0	Scrapie-responsive protein 1
+1	SCAN domain
+0	SCAMP
+0	SCA7 domain
+0	SAS-6 coiled-coil domain
+0,5	Sas10/Utp3/C1D
+1	Sas10 C-terminal domain
+0	Sarcoglycan complex subunit protein
+0,5	Saposin-like type B, region 1
+0,5	Saposin B type, region 2
+1	Saposin A-type domain
+0	SAPAP family
+0	SAP domain
+0	SANT/Myb domain
+0,5	SAM-dependent methyltransferase TRM5/TYW2-type
+0	Sam68, tyrosine-rich domain
+0	SAM/SH3 domain-containing
+0	SAM domain
+1	S-adenosylmethionine-dependent methyltransferase Bmt2-like
+0	S-adenosylmethionine synthetase, N-terminal
+0	S-adenosylmethionine synthetase, C-terminal
+0	S-adenosylmethionine synthetase, central domain
+0	Saccharopine dehydrogenase-like, C-terminal
+0	Saccharopine dehydrogenase, NADP binding domain
+0	SAC domain
+0,291666667	S100/CaBP-9k-type, calcium binding, subdomain
+0,2	S1 domain
+0	RyR/IP3R Homology associated domain
+0	RWD domain
+0	RUN domain
+1	RTP801-like
+0	rRNA-processing protein Fcf1/Utp23
+0	rRNA-processing arch domain
+1	rRNA 2'-O-methyltransferase fibrillarin-like
+0	RQC domain
+0	Rpn11/EIF3F, C-terminal
+0	RPA43, OB domain
+0	ROK, N-terminal
+0	ROCK, Rho binding domain
+0	Roadblock/LAMTOR2 domain
+1	RNA-binding S4 domain
+0	RNA transcription, translation and transport factor protein
+0,413793103	RNA recognition motif domain
+0	RNA polymerase, beta subunit, protrusion
+0	RNA polymerase, alpha subunit
+0	RNA polymerase subunit Rpb4/RPC9
+0	RNA polymerase Rpb2, domain 7
+0	RNA polymerase Rpb2, domain 5
+0	RNA polymerase Rpb2, domain 4
+0	RNA polymerase Rpb2, domain 3
+0	RNA polymerase Rpb2, domain 2
+0	RNA polymerase Rpb1, domain 5
+0	RNA polymerase Rpb1, domain 4
+0	RNA polymerase Rpb1, domain 3
+0	RNA polymerase Rpb1, domain 1
+0	RNA polymerase III subunit RPC82-related, helix-turn-helix
+0	RNA polymerase III Rpc82, C -terminal
+1	RNA polymerase II assembly factor Rtp1, C-terminal domain 2
+0	RNA polymerase II assembly factor Rtp1, C-terminal
+0	RNA polymerase archaeal subunit P/eukaryotic subunit RPABC4
+0	RNA guanine-N7 methyltransferase activating subunit
+0	RNA cap guanine-N2 methyltransferase
+0	RINT-1/Tip20
+1	RII binding domain
+0	RIH domain
+0	Right handed beta helix domain
+0	Ricin B, lectin domain
+1	Ribulose-phosphate 3-epimerase-like
+0	Ribosome maturation protein SDO1/SBDS, N-terminal
+0	Ribosome maturation protein SDO1/SBDS, C-terminal domain
+0	Ribosome maturation protein SDO1/SBDS, central domain
+0	Ribosome biogenesis protein BMS1/TSR1, C-terminal
+0	Ribosomal RNA-processing protein 15
+0	Ribosomal RNA-processing protein 14/surfeit locus protein 6, C-terminal domain
+0	Ribosomal RNA methyltransferase, FtsJ domain
+0	Ribosomal RNA adenine methyltransferase KsgA/Erm
+0	Ribosomal Proteins L2, RNA binding domain
+0	Ribosomal protein S9
+0	Ribosomal protein S8e/ribosomal biogenesis NSA2
+0	Ribosomal protein S8
+0	Ribosomal protein S7e
+0	Ribosomal protein S6e
+1	Ribosomal protein S4/S9, N-terminal
+0	Ribosomal protein S3Ae
+0	Ribosomal protein S30
+0	Ribosomal protein S28, mitochondrial
+0	Ribosomal protein S27a
+0	Ribosomal protein S27/S33, mitochondrial
+0	Ribosomal protein S27
+0	Ribosomal protein S26e
+0	Ribosomal protein S21
+0,25	Ribosomal protein S2
+0	Ribosomal protein S18
+0	Ribosomal protein S17e
+0	Ribosomal protein S17/S11
+0	Ribosomal protein S15
+1	Ribosomal protein S14
+0	Ribosomal protein S13/S15, N-terminal
+0	Ribosomal protein S13
+0	Ribosomal protein S12/S23
+0	Ribosomal protein S11
+0	Ribosomal protein S10 domain
+0	Ribosomal protein L9, N-terminal
+0,166666667	Ribosomal protein L7Ae/L30e/S12e/Gadd45
+0	Ribosomal protein L6, N-terminal
+0	Ribosomal protein L6, alpha-beta domain
+0	Ribosomal protein L53, mitochondrial
+0	Ribosomal protein L51, mitochondrial
+0	Ribosomal protein L5, N-terminal
+0	Ribosomal protein L5, C-terminal
+0	Ribosomal protein L5 eukaryotic/L18 archaeal
+0	Ribosomal protein L5 eukaryotic, C-terminal
+0	Ribosomal protein L49/IMG2
+0	Ribosomal protein L46, N-terminal
+1	Ribosomal protein L44e
+0	Ribosomal protein L41
+0	Ribosomal protein L4/L1e
+0	Ribosomal protein L37e
+0	Ribosomal protein L37ae
+0	Ribosomal protein L37/S30
+1	Ribosomal protein L36
+0	Ribosomal protein L35A
+0	Ribosomal protein L34Ae
+0	Ribosomal protein L32p
+0	Ribosomal protein L30, N-terminal
+0	Ribosomal protein L30, ferredoxin-like fold domain
+0	Ribosomal protein L29/L35
+1	Ribosomal protein L27/L41, mitochondrial
+0	Ribosomal protein L26/L24, eukaryotic/archaeal
+0	Ribosomal protein L24e-related
+0	Ribosomal protein L24
+0	Ribosomal protein L22e
+0	Ribosomal protein L21e
+0	Ribosomal protein L2, C-terminal
+0	Ribosomal protein L19
+0	Ribosomal protein L18e/L15P
+0	Ribosomal protein L18
+1	Ribosomal protein L14P
+0	Ribosomal protein L14e domain
+0	Ribosomal protein L13
+0	Ribosomal protein L10P
+1	Ribosomal protein L10e/L16
+0	Ribosomal protein L1/ribosomal biogenesis protein
+1	Ribosomal protein 63, mitochondrial
+0	Ribosomal L28e/Mak16
+0	Ribosomal biogenesis, methyltransferase, EMG1/NEP1
+1	Ribosomal biogenesis regulatory protein
+1	Ribose-phosphate pyrophosphokinase, N-terminal domain
+1	Ribose-phosphate pyrophosphokinase
+0	Ribose 5-phosphate isomerase, type A
+1	Ribonucleases P/MRP protein subunit Rpp20/Pop7
+0	Ribonuclease Zc3h12a-like, NYN domain
+0	Ribonuclease inhibitor, leucine rich repeat cap
+0	Ribonuclease H1, N-terminal
+0	Ribonuclease H domain
+1	Ribonuclease A-domain
+0	Riboflavin kinase domain, bacterial/eukaryotic
+0	Rhodanese-like domain
+0	Rho protein GDP-dissociation inhibitor
+1	Rho guanine nucleotide exchange factor 5/35, N-terminal
+0	Rho GTPase-activating protein domain
+0	RHEX-like
+0,142857143	RGS domain
+0	RFT1
+1	Reverse transcriptase/retrotransposon-derived protein, RNase H-like domain
+0	Retroelement silencing factor 1
+0	Retrieval of early ER protein Rer1
+1	Retinoic acid-induced protein 2/sine oculis-binding protein homologue
+0	Retinoblastoma-associated protein, N-terminal
+0	Retinoblastoma-associated protein, C-terminal
+0	Retinoblastoma-associated protein, B-box
+0	Retinoblastoma-associated protein, A-box
+0	Retinal degeneration protein 3
+0	Retinal cGMP phosphodiesterase, gamma subunit
+0	Restriction enzyme adenine methylase associated
+0	Required for drug-induced death protein 1
+0	Repulsive guidance molecule, N-terminal
+1	Repulsive guidance molecule, C-terminal
+0	Repressor of RNA polymerase III transcription Maf1
+0	Replication factor A protein 3
+0	Renal cancer differentiation gene 1 protein
+0	Regulatory factor X-associated protein, RFXANK-binding domain
+0,146341463	Regulator of chromosome condensation, RCC1
+1	Rege-1, UBA-like domain
+0	Reeler domain
+0	Reduced growth phenotype protein 1
+0	Reduced folate carrier
+0	RED-like, N-terminal
+1	RecQ-mediated genome instability protein 1, C-terminal OB-fold domain
+0	RecQ-like DNA helicase BLM, N-terminal domain
+0	RecQ-like DNA helicase BLM, BDHCT-box associated domain
+1	RecQ mediated genome instability protein 1, N-terminal
+1	Recombination activating protein 2, PHD domain
+0	RecF/RecN/SMC, N-terminal
+0	Receptor, ligand binding region
+0,5	Receptor L-domain
+0	Receptor activity modifying protein
+0	RDD
+1	RBM1CTR
+0,5	RAVE complex protein Rav1 C-terminal
+0	Ras-like guanine nucleotide exchange factor, N-terminal
+0	RasGAP protein, C-terminal
+0	Ras-associating domain
+0	Ras guanine-nucleotide exchange factors catalytic domain
+0	Ras GTPase-activating domain
+0	Rap/Ran-GAP domain
+0	RAP domain
+0,9	Ran binding domain
+0	RAI1-like
+0	Ragulator complex protein LAMTOR5
+0	Raftlin family
+0	Raf-like Ras-binding
+0	Radical SAM
+1	Rad60/SUMO-like domain
+0	RAD51 interacting motif
+0	Rad21/Rec8-like protein, N-terminal
+1	Rad21/Rec8-like protein, C-terminal, eukaryotic
+0	Rab-GAP-TBC domain
+1	Rab-binding domain FIP-RBD
+0	RAB7A-interacting MON1-CCZ1 complex subunit 1
+1	Rab15 effector
+0	Rab interacting lysosomal protein, dimerization domain
+0	Rab geranylgeranyltransferase, alpha subunit, insert-domain
+0	R3H domain
+1	Quinolinate phosphoribosyl transferase, N-terminal
+0	Quinolinate phosphoribosyl transferase, C-terminal
+0	Queuosine salvage protein family
+0	Pyrroline-5-carboxylate reductase, dimerisation domain
+0	Pyrroline-5-carboxylate reductase, catalytic, N-terminal
+0	Pyridoxal phosphate-dependent decarboxylase
+0,5	PWWP domain
+0	PWI domain
+1	Putative WW-binding domain and destruction box
+1	Putative treble-clef, zinc-finger domain
+0	Putative RNA methyltransferase
+1	Putative ABC-transporter type IV CmpB/TMEM229
+1	Purine-rich element binding protein family
+0	PUL domain
+1	P-type trefoil domain
+0	P-type ATPase, N-terminal
+0	P-type ATPase, C-terminal
+0	Pterin 4 alpha carbinolamine dehydratase
+0,5	PTB/PI domain
+1	Psoriasis susceptibility 1 candidate gene 2 protein
+0	Pseudouridine synthase, RsuA/RluA-like
+0	Proton-dependent oligopeptide transporter family
+0	Prothymosin/parathymosin
+0	Protein-tyrosine phosphatase-like, PTPLA
+0	Proteinase inhibitor I47, latexin
+0	Protein-arginine deiminase, C-terminal
+0	Protein-arginine deiminase (PAD), N-terminal
+0	Protein-arginine deiminase (PAD), central domain
+0	Protein transport protein SecG/Sec61-beta/Sbh
+0	Protein translocase complex, SecE/Sec61-gamma subunit
+0	Protein SPO16 homolog
+0,5	Protein SOGA
+0	Protein SNORC
+0	Protein RED, C-terminal
+0,555555556	Protein prenyltransferase, alpha subunit
+0,5	Protein phosphatase inhibitor 2 (IPP-2)
+0	Protein phosphatase inhibitor 1
+1	Protein phosphatase 1, regulatory subunit 15B, N-terminal
+0	Protein phosphatase 1, regulatory subunit 15A/B, C-terminal
+0	Protein phosphatase 1 regulatory subunit 36
+0	Protein phosphatase 1 regulatory subunit 35, C-terminal
+1	Protein phosphatase 1 regulatory subunit 26, N-terminal domain
+1	Protein patched/dispatched
+1	Protein O-mannosyl-transferase TMTC, DUF1736
+0	Protein of unknown function DUF719
+1	Protein of unknown function DUF716
+0	Protein of unknown function DUF5585
+0	Protein of unknown function DUF5571
+0	Protein of unknown function DUF5548
+1	Protein of unknown function DUF5533
+1	Protein of unknown function DUF5527
+0	Protein of unknown function DUF5522
+0	Protein of unknown function DUF5520
+0	Protein of unknown function DUF4750
+1	Protein of unknown function DUF4730
+0	Protein of unknown function DUF4722
+0	Protein of unknown function DUF4718
+0	Protein of unknown function DUF4699
+0	Protein of unknown function DUF4698
+0	Protein of unknown function DUF4680
+1	Protein of unknown function DUF4679
+1	Protein of unknown function DUF4678
+1	Protein of unknown function DUF4677
+0	Protein of unknown function DUF4663
+1	Protein of unknown function DUF4661
+1	Protein of unknown function DUF4659
+0	Protein of unknown function DUF4658
+1	Protein of unknown function DUF4653
+0	Protein of unknown function DUF4647
+0	Protein of unknown function DUF4644
+0	Protein of unknown function DUF4642
+0,5	Protein of unknown function DUF4640
+0	Protein of unknown function DUF4636
+0	Protein of unknown function DUF4635
+0	Protein of unknown function DUF4634
+0	Protein of unknown function DUF4633
+0	Protein of unknown function DUF4630
+0	Protein of unknown function DUF4620
+0	Protein of unknown function DUF4619
+0	Protein of unknown function DUF4612
+1	Protein of unknown function DUF4606
+0	Protein of unknown function DUF4603
+0	Protein of unknown function DUF4568
+0	Protein of unknown function DUF4562
+0	Protein of unknown function DUF4555
+0	Protein of unknown function DUF4548
+1	Protein of unknown function DUF4534
+1	Protein of unknown function DUF4533
+0	Protein of unknown function DUF4532
+0	Protein of unknown function DUF4528
+0	Protein of unknown function DUF4522
+0	Protein of unknown function DUF4513
+1	Protein of unknown function DUF4508
+1	Protein of unknown function DUF4504
+0	Protein of unknown function DUF3504
+1	Protein of unknown function DUF3429
+0	Protein of unknown function DUF2678
+0	Protein of unknown function DUF2452
+1	Protein of unknown function DUF2371, TMEM200
+0	Protein of unknown function DUF2362
+0	Protein of unknown function DUF1180
+0	Protein of unknown function DUF1075
+1	Protein of of unknown function DUF5547
+1	Protein NDNF, C-terminal
+1	Protein NDNF
+0	Protein MMS22-like, N-terminal
+0	Protein MGARP, N-terminal
+0	Protein melan-A
+0	Protein LYRIC
+0	Protein LCHN/Anr2
+1	Protein Largen/Inhibitory synaptic factor 1
+1	Protein KTI12/L-seryl-tRNA(Sec) kinase
+0,5	Protein kish
+0,6	Protein kinase, C-terminal
+0,109090909	Protein kinase domain
+0,153846154	Protein kinase C-like, phorbol ester/diacylglycerol-binding domain
+0	Protein import receptor MAS20
+0	Protein HGH1 N-terminal
+0	Protein HGH1 C-terminal
+1	Protein GAPT
+0	Protein furry, C-terminal
+0	Protein FRG2
+0	Protein FRG1
+0	Protein FAM72
+1	Protein FAM222
+1	Protein FAM184A/B, N-terminal
+0	Protein FAM131
+0	Protein DPCD
+0	Protein C10
+0	Protein BRAWNIN
+0	Protein BNIP5
+0	Protein argonaute, N-terminal
+0	Protein argonaute, Mid domain
+0,2	Proteasome, subunit alpha/beta
+0	Proteasome maturation factor Ump1
+0	Proteasome component (PCI) domain
+0	Proteasome assembly chaperone 3
+0	Proteasome alpha-subunit, N-terminal domain
+0	Proteasome activator PA28, N-terminal domain
+0	Proteasome activator PA28, C-terminal domain
+0	Proteasomal ATPase OB C-terminal domain
+0	Prostate androgen-regulated mucin-like protein 1
+1	Pro-opiomelanocortin/corticotropin, ACTH, central region
+0	Pro-opiomelanocortin N-terminal
+0	Prolyl 4-hydroxylase alpha subunit, Fe(2+) 2OG dioxygenase domain
+0	Proline-tRNA ligase, class II, C-terminal
+0	Proline-rich protein PRCC
+0	Proline-rich protein family 20
+0	Proline-rich protein 23
+1	Proline-rich protein 18
+1	Proline-rich protein 15
+0,333333333	Proline-rich protein
+0	Proline racemase family
+0	Prolactin-releasing peptide
+0	Prolactin-inducible protein
+0,5	Prokineticin domain
+0	Programmed cell death protein 7
+0,5	Profilin
+0	Proacrosin binding sp32
+0	Primosome PriB/single-strand DNA-binding
+0	Pre-pro melanin-concentrating hormone
+0	Pre-mRNA-splicing factor SPF27
+0	Pre-mRNA-splicing factor SLU7 domain
+0	Pre-mRNA-splicing factor Cwf15/Cwc15
+0	Pre-mRNA splicing factor component Cdc5p/Cef1, C-terminal
+0	Pre-mRNA 3'-end-processing endonuclease polyadenylation factor C-term
+0	Prefoldin beta-like
+0	PRDM4, zinc knuckle motif
+0,142857143	PPM-type phosphatase-like domain
+1	POU-specific domain
+0	POU, class 2, associating factor 1
+0	POU domain class 2-associating factor 2
+0	Potentiating neddylation domain
+0	Potential DNA-binding domain
+0	Potassium channel, voltage dependent, Kv4, C-terminal
+1	Potassium channel, voltage dependent, Kv2
+0,666666667	Potassium channel, inwardly rectifying, transmembrane domain
+0	Potassium channel, calcium-activated, BK, beta subunit
+0,941176471	Potassium channel tetramerisation-type BTB domain
+0,357142857	Potassium channel domain
+0	POPLD domain
+0	Popeye protein
+0	Pop1, N-terminal
+0	Polyribonucleotide nucleotidyltransferase, RNA-binding domain
+0	Polyribonucleotide 5'-hydroxyl-kinase Clp1, P-loop domain
+0,5	Polymerase, nucleotidyl transferase domain
+1	Polyadenylate-binding protein/Hyperplastic disc protein
+0	Poly(ADP-ribose) polymerase, regulatory domain
+0	Poly(ADP-ribose) polymerase, catalytic domain
+1	Poly(A) polymerase, RNA-binding domain
+1	Poly(A) polymerase, central domain
+0	Polo kinase kinase
+0	POLO box domain
+0	Pointed domain
+0,692307692	PMP-22/EMP/MP20/Claudin superfamily
+0	Plus-3 domain
+0	Plexin, cytoplasmic RhoGTPase-binding domain
+0	Plexin, cytoplasmic RasGAP domain
+0,5	Plexin repeat
+0	Pleiotrophin/Midkine, N-terminal domain
+0	Pleiotrophin/Midkine, C-terminal domain
+0	Plectin/S10, N-terminal
+1	Plectin repeat
+0	Pleckstrin homology domain 9
+0,130434783	Pleckstrin homology domain
+0	PLD-like domain
+0	PLAT/LH2 domain
+0	Plasminogen receptor (KT)
+0	PLAC8 motif-containing protein
+0	PLAC
+0	PLAA family ubiquitin binding domain
+0	PKD domain
+0	Piwi domain
+0	PINIT domain
+0	Pinin/SDK/MemA protein
+0	Pinin/SDK
+0	PIN domain
+0	PIK-related kinase, FAT
+1	PIK3 catalytic subunit gamma, adaptor-binding domain
+1	PiggyBac transposable element-derived protein 4, C-terminal zinc-ribbon
+1	PiggyBac transposable element-derived protein
+0	Piezo non-specific cation channel, R-Ras-binding domain
+0	Piezo domain
+1	Piercer of microtubule wall 1/2
+0	Phytanoyl-CoA hydroxylase-interacting protein-like, C-terminal
+0,125	Phox homology
+0	Photoreceptor cilium actin regulator
+0	Phosphorylated immunoreceptor signalling ITAM
+0	Phosphorylated adapter RNA export protein, RNA-binding domain
+0	Phosphoribosyltransferase domain
+0	Phosphoprotein associated with glycosphingolipid-enriched microdomains 1
+0	Phospholipid/glycerol acyltransferase
+0	Phospholipase/carboxylesterase/thioesterase
+0	Phospholipase B-like
+0	Phospholipase A2 domain
+1	Phospholamban
+0	Phosphoinositide 3-kinase, accessory (PIK) domain
+1	Phosphoglycerate kinase
+1	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y
+1	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C
+0	Phosphatidylinositol 4,5-bisphosphate 4-phosphatase
+0,333333333	Phosphatidylinositol 3-kinase Ras-binding (PI3K RBD) domain
+0	Phosphatidylinositol 3-/4-kinase, catalytic domain
+0	Phosphatidylethanolamine-binding protein
+0	Phosphatidyl serine synthase
+0,2	Phosphatidic acid phosphatase type 2/haloperoxidase
+0	Phosphate transporter
+1	Phosphatase PHOSPHO-type
+0	Phosducin, thioredoxin-like domain
+0,5	Phenylalanyl-tRNA synthetase
+1	Phenylalanine zipper
+0	PFTB repeat
+1	Pex, N-terminal
+0	PET domain
+0	Peroxisomal testis-specific protein 1
+0	Peroxiredoxin-like 2A/B/C
+0	Peroxiredoxin, C-terminal
+0	Peroxin-3
+1	Peroxin 13, N-terminal
+0	Peripheral subunit-binding domain
+0	Perilipin
+0	Peptidyl-tRNA hydrolase, PTH2
+0	Peptidyl-tRNA hydrolase
+0	Peptidoglycan binding-like
+0	Peptide methionine sulphoxide reductase MrsB domain
+0	Peptidase T2, asparaginase 2
+0	Peptidase S9A, N-terminal domain
+0	Peptidase S9, prolyl oligopeptidase, catalytic domain
+0	Peptidase S8/S53 domain
+0,5	Peptidase S8, pro-domain
+0	Peptidase S28
+0	Peptidase S10, serine carboxypeptidase
+0	Peptidase M76, ATP23
+0	Peptidase M50
+0	Peptidase M48
+0	Peptidase M43, pregnancy-associated plasma-A
+0	Peptidase M3A/M3B catalytic domain
+0	Peptidase M28
+0	Peptidase M24
+0	Peptidase M23
+0	Peptidase M20, dimerisation domain
+0	Peptidase M20
+0	Peptidase M16, N-terminal
+0	Peptidase M16, C-terminal
+0	Peptidase M14, carboxypeptidase A
+0	Peptidase M13, N-terminal domain
+0	Peptidase M13, C-terminal domain
+0,571428571	Peptidase M12B, propeptide
+0,285714286	Peptidase M12B, ADAM/reprolysin
+0	Peptidase M12A
+1	Peptidase M10A, matrix metallopeptidase, C-terminal
+0	Peptidase M10, metallopeptidase
+0	Peptidase M1, membrane alanine aminopeptidase
+0	Peptidase M1, leukotriene A4 hydrolase/aminopeptidase C-terminal
+0	Peptidase family A1 domain
+1	Peptidase C78, ubiquitin fold modifier-specific peptidase 1/ 2
+0	Peptidase C54, catalytic domain
+0	Peptidase C26
+0	Peptidase C2, calpain, large subunit, domain III
+0	Peptidase C2, calpain, catalytic domain
+0	Peptidase C1A, propeptide
+0	Peptidase C1A, papain C-terminal
+0	Peptidase C19, ubiquitin-specific peptidase, DUSP domain
+0,678571429	Peptidase C19, ubiquitin carboxyl-terminal hydrolase
+0	Peptidase C12, ubiquitin carboxyl-terminal hydrolase
+0	Peptidase A22B, signal peptide peptidase
+1	Pep3/Vps18/deep orange
+0,5	Pentraxin-related
+0,2	Pentatricopeptide repeat
+0,25	Pentapeptide repeat
+0	Pentacotripeptide-repeat region of PRORP
+0	Pellino family
+0	Pecanex, C-terminal
+0	PDZK1-interacting protein 1/SMIM24
+0	PDZ-binding protein, CRIPT
+0	PDZ domain 6
+0,142857143	PDZ domain
+0	PDGF/VEGF domain
+0	PBX, PBC domain
+0	PB1 domain
+0	PAZ domain
+0	PAS fold-3
+0	PAS fold
+0	PAS domain
+1	Parathyroid hormone/parathyroid hormone-related protein
+1	Paraneoplastic antigen Ma
+1	Pancreatic trypsin inhibitor Kunitz domain
+0	Pancreatic hormone-like
+0	PAN/Apple domain
+0	Palmitoyltransferase, DHHC domain
+1	Paired domain
+0	Paired amphipathic helix
+0	Paf1 complex subunit Cdc73, N-terminal domain
+1	PADR1, zinc ribbon fold
+0	PA14 domain
+0,333333333	PA domain
+0	P domain
+0	Oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+1	Oxidoreductase, molybdopterin-binding domain
+0	Oxidoreductase FAD/NAD(P)-binding
+0	Overexpressed in colon carcinoma 1
+0,333333333	OTU domain
+0	Otospiralin
+0,333333333	Otopetrin
+0	Osteopetrosis-associated transmembrane protein 1 precursor
+0	Ornithine cyclodeaminase/mu-crystallin
+0	Orn/DAP/Arg decarboxylase 2, N-terminal
+0	Orn/DAP/Arg decarboxylase 2, C-terminal
+0	ORMDL family
+0	Origin recognition complex, subunit 6
+0	Origin recognition complex, subunit 2
+0	Organic solute transporter subunit beta
+0	Organic solute transporter subunit alpha/Transmembrane protein 184
+0	Organic anion transporter polypeptide
+1	Orexin receptor 2
+1	Orexigenic neuropeptide QRFP/P518
+1	Orange domain
+0	Opioid neuropeptide precursor
+0	Opioid growth factor receptor (OGFr) conserved domain
+1	Opiodes neuropeptide
+0	Oligosaccharyl transferase, STT3 subunit
+0	Oligosaccharide biosynthesis protein Alg14-like
+1	Oligosaccaryltransferase
+1	Olfactory receptor
+1	Olfactomedin-like domain
+0	Olduvai domain
+0	Odontogenic ameloblast-associated protein
+0	OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+1	OAR domain
+0	Nup358/RanBP2 E3 ligase domain
+0,125	NUDIX hydrolase domain
+0	NudC N-terminal domain
+1	Nucleosome assembly protein (NAP)
+0	Nucleoside-triphosphatase, THEP1 type
+0	Nucleoside transporter/FeoB GTPase, Gate domain
+0	Nucleoside phosphorylase domain
+0	Nucleoside phosphatase GDA1/CD39
+0	Nucleoside diphosphate kinase-like domain
+0	Nucleoporin, Nup133/Nup155-like, C-terminal
+0	Nucleoporin Nup186/Nup192/Nup205
+0	Nucleolar protein 58/56, N-terminal
+0	Nucleolar GTP-binding protein 2, N-terminal domain
+0	Nucleolar complex-associated protein 3, N-terminal
+0	Nucleolar complex protein 2
+0	Nucleolar 27S pre-rRNA processing, Urb2/Npa2, C-terminal
+0	Nuclear/hormone receptor activator site AF-1
+0	Nuclear transition protein 1
+0	Nuclear Testis protein, N-terminal
+1	Nuclear receptor coactivator, receptor-binding domain
+1	Nuclear receptor coactivator, Ncoa-type, interlocking
+0	Nuclear receptor coactivator, DUF1518
+0	Nuclear receptor coactivator 2/3, DUF4927
+1	Nuclear protein 1-like
+0	Nuclear migration protein nudC
+0	Nuclear hormone receptor, ligand-binding domain
+0	Nuclear condensin complex subunit 3, C-terminal domain
+0	NT-type C2 domain
+1	Nse4/EID protein, Nse3/MAGE-binding domain
+0	Notch, NODP domain
+1	Notch, NOD domain
+0	Notch ligand, N-terminal domain
+0,666666667	Notch domain
+0	NOP protein chaperone 1
+0	Nop domain
+1	Non-structural maintenance of chromosome element 4, C-terminal
+0	Nonaspanin (TM9SF)
+1	NOD2, winged helix domain
+0	Nmi/IFP 35 domain, N-terminal
+0	Nmi/IFP 35 domain
+0	NLE
+0	NIPSNAP
+0	Ninjurin
+0	Nicotinate/nicotinamide phosphoribosyltransferase
+0	Nicotinamide phosphoribosyltransferase, N-terminal domain
+0	Nibrin, second BRCT domain
+0	Nibrin, C-terminal
+1	NHL repeat
+0	NGX6/PGAP6/MYMK
+1	NF-kappa-B-activating protein, C-terminal
+0,133333333	Neurotransmitter-gated ion-channel transmembrane domain
+0	Neurotransmitter-gated ion-channel ligand-binding domain
+0	Neurotensin/neuromedin N
+0	Neuropeptide S
+0	Neuronal vesicle trafficking-associated protein
+1	Neuromedin-U receptor 2, C-terminal domain
+0	Neuromedin U, C-terminal
+1	Neurogenic mastermind-like, N-terminal
+1	Neurogenic differentiation factor, domain of unknown function
+0	Neuritin family
+1	Neurexophilin/NXPE
+1	Neuraxin/MAP1B repeat
+1	Neuralized homology repeat (NHR) domain
+0	Neural proliferation differentiation control-1
+0	Netrin module, non-TIMP type
+1	Nerve growth factor-related
+0	NDT80 DNA-binding domain
+1	Natriuretic peptide
+0	Nascent polypeptide-associated complex subunit alpha-like, UBA domain
+0	Nascent polypeptide-associated complex NAC domain
+0	NADP-dependent oxidoreductase domain
+0	NADP transhydrogenase beta-like domain
+0	NADH-ubiquinone reductase complex 1 MLRQ subunit
+0	NADH-ubiquinone oxidoreductase 1 subunit C1
+0	NADH:ubiquinone oxidoreductase, iron-sulphur subunit 5
+0	NADH:ubiquinone oxidoreductase intermediate-associated protein 30
+0	NADH dehydrogenase ubiquinone Fe-S protein 4 mitochondrial-like
+0	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3
+0	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, animal type
+0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+0	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4
+0	NAD-dependent epimerase/dehydratase
+1	NAD:arginine ADP-ribosyltransferase, ART
+0	NAD(P)-binding domain
+0	NAD(P) transhydrogenase, alpha subunit, C-terminal
+0,5	NACHT nucleoside triphosphatase
+0	N-acetylneuraminic acid synthase, N-terminal
+0	N-acetylmuramoyl-L-alanine amidase domain
+1	N-acetylglucosaminyltransferase II
+0	MYST, zinc finger domain
+0,333333333	Myristoylated alanine-rich C-kinase substrate MARCKS
+0	Myozenin
+0	Myotonic dystrophy protein kinase, coiled coil
+0	Myosin, N-terminal, SH3-like
+0	Myosin tail
+0	Myosin head, motor domain
+1	Myogenic muscle-specific protein, N-terminal
+0	Myogenic determination factor 5
+0	MyoD family inhibitor/MyoD family inhibitor domain-containing protein
+0	MYND-like zinc finger
+0	Myeloid leukemia factor
+0	Myelin transcription factor 1
+0	Myelin gene regulatory factor, ICA domain
+0	Myelin gene regulatory factor C-terminal domain 2
+0,76	Myc-type, basic helix-loop-helix (bHLH) domain
+0	Myc target protein 1
+1	Myb/SANT-like DNA-binding domain 5
+0	Myb/SANT-like DNA-binding domain 4
+0	Musculoskeletal embryonic nuclear protein 1
+0	MUN domain
+0	Multifunctional 2-oxoglutarate metabolism enzyme, C-terminal
+0	Multi-copper polyphenol oxidoreductase
+0	Multicopper oxidase, N-terminal
+0	Mucin, catalytic, TM and cytoplasmic tail domain
+0	Mu homology domain
+0	Mss4
+0	mRNA decay factor PAT1 domain
+0	Mpv17/PMP22
+0	MOZART2 family
+1	Moybdenum cofactor oxidoreductase, dimerisation
+0,733333333	MORN repeat
+1	MORF4 family-associated protein 1
+0	Mon2/Sec7/BIG1-like, HUS domain
+0	Mon2/Sec7/BIG1-like, HDS
+0	Mon2/Sec7/BIG1-like, dimerisation and cyclophilin-binding domain
+0	Molybdopterin dehydrogenase, FAD-binding
+0	Molybdopterin biosynthesis MoaE
+0	Modifier of rudimentary, Modr
+0	MOB kinase activator family
+0	Mo25-like
+0	Mnd1, HTH domain
+0	MMS22-like, C-terminal
+0	MmgE/PrpD, N-terminal
+1	MmgE/PrpD, C-terminal
+0	MKI67 FHA domain-interacting nucleolar phosphoprotein, FHA Ki67 binding
+0	Mitotic-spindle organizing protein 1
+0,25	Mitochondrial substrate/solute carrier
+0	Mitochondrial pyruvate carrier
+0	Mitochondrial protein C2orf69
+1	Mitochondrial mRNA-processing protein COX24, C-terminal
+0	Mitochondrial import receptor subunit TOM7
+0	Mitochondrial import receptor subunit TOM6 homologue
+0	Mitochondrial distribution/morphology family 35/apoptosis
+0	Mitochondrial degradasome RNA helicase subunit, C-terminal domain
+0	Mitochondrial cytochrome c oxidase subunit VIc/VIIs
+0	Mitochondrial coiled-coil domain protein 1
+0	Mitochondrial 28S ribosomal protein S31
+0	MITD1, C-terminal phospholipase D-like domain
+0	MIT domain
+0	MIR motif
+1	Mig-6 domain
+0	MIF4G-like, type 3
+0	MIF4G-like, type 2
+0	MIF4G-like, type 1
+0	Midasin, AAA lid domain 7
+0	Midasin AAA lid domain 5
+0	MID domain of medPIWI
+1	Microtubule-associated protein 10, C-terminal
+0	Micro-fibrillar-associated protein 1, C-terminal
+0	MICOS complex subunit MIC19/MIC25
+0	Mib-herc2
+0	MHCK/EF2 kinase
+0	MHC class I-like antigen recognition-like
+1	MHC class II, beta chain, N-terminal
+1	MHC class II, alpha chain, N-terminal
+0	MHC class I, alpha chain, C-terminal
+0	Methyltransferase type 11
+0	Methyltransferase small domain
+1	Methyltransferase Ppm1/Ppm2/Tcmp
+0	Methyltransferase EEF1AKMT1/ZCCHC4
+0	Methyltransferase domain 25
+0	Methyltransferase domain
+0	Methylmalonyl-CoA mutase, alpha/beta chain, catalytic
+0	Methylmalonic aciduria and homocystinuria type D protein
+0	Methylmalonic aciduria and homocystinuria type C family
+0	Methylguanine DNA methyltransferase, ribonuclease-like domain
+0	Methylglyoxal synthase-like domain
+0	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding
+1	Methionyl-tRNA synthetase, anticodon-binding domain
+0	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding
+1	Methionyl/Leucyl tRNA synthetase
+1	Metastasis-suppressor KiSS-1
+0,125	Metallothionein
+0,2	Metallo-beta-lactamase
+0	Metal-dependent protein hydrolase
+0	Menorin
+0	Membrane-associated, eicosanoid/glutathione metabolism (MAPEG) protein
+0	Membrane transport protein
+0	Membrane bound O-acyl transferase, MBOAT
+0	Membrane attack complex component/perforin (MACPF) domain
+0	Melanocortin-2 receptor accessory protein family
+0	Meiotic recombination protein REC114-like
+0	Meiosis-specific protein MEI4
+1	Mediator complex, subunit Med7
+0	Mediator complex, subunit Med21
+0	Mediator complex, subunit Med18
+0	Mediator complex, subunit Med10
+0	Mediator complex subunit Med13, C-terminal
+0	Meckelin
+0	MD-2-related lipid-recognition domain
+0	Mcm6, C-terminal winged-helix domain
+0	MCM, AAA-lid domain
+0	MCM OB domain
+0	MCM N-terminal domain
+0	MCM domain
+0	Matrilin, coiled-coil trimerisation domain
+0	MATH/TRAF domain
+0	Marvel domain
+0	MAPK-interacting and spindle-stabilising protein
+0	Mannosidase Ig/CBM-like domain
+0	Mannose-6-phosphate receptor
+0	Man1/Src1, C-terminal
+0	MAM domain
+0	Malectin domain
+0	Mak16 protein
+0	Major intrinsically disordered Notch2-binding receptor 1-like, C-terminal
+0	Major intrinsic protein
+0,090909091	Major facilitator, sugar transporter-like
+0	Major facilitator superfamily associated domain
+0	Major facilitator superfamily
+0	Mago nashi protein
+0	Magnesium transporter NIPA
+1	MAGE homology domain
+1	Maf transcription factor, N-terminal
+1	MAD homology 1, Dwarfin-type
+0	Macroglobulin domain MG4
+0	Macroglobulin domain MG3
+0	Macroglobulin domain
+0	Macro domain
+0,666666667	Mab-21-like, nucleotidyltransferase domain
+0,75	Mab-21-like, HhH/H2TH-like domain
+0	Lysyl oxidase
+0	Lysosome-associated membrane glycoprotein
+0	Lysosomal-associated transmembrane protein 4/5
+0	Lysoplasmalogenase-like
+0	Lysophospholipase, catalytic domain
+0	Lysine methyltransferase
+0	Ly-6 antigen/uPA receptor-like
+0	Lung surfactant protein D coiled-coil trimerisation
+0	Lsm14-like, N-terminal
+0,75	LRRC8, pannexin-like TM region
+1	LRAT domain
+0,447916667	Low-density lipoprotein (LDL) receptor class A repeat
+0	Low temperature viability protein Ltv1
+1	Loricrin
+0	Longin domain
+0	LMBR1-like membrane protein
+0	LKB1 serine/threonine kinase interacting protein 1, N-terminal
+0	Liver-expressed antimicrobial peptide 2
+0	LISCH7
+0	LIS1 homology motif
+0	Lipoma HMGIC fusion partner-like protein
+0	Lipocalin/cytosolic fatty-acid binding domain
+0	Lipid transport, open beta-sheet
+0	Lipase
+1	Linker histone H1/H5, domain H15
+0,375	Link domain
+0	Limb expression 1
+1	Leucine-rich repeat N-terminal domain
+0,838926174	Leucine-rich repeat
+0,666666667	Leucine-rich glioma-inactivated , EPTP repeat
+0	Leucine zipper with capping helix domain
+0,666666667	Leucine rich repeat 4
+0	Leucine rich adaptor protein 1/25
+0	Leptin
+1	Lens epithelial cell protein LEP503
+1	LEM domain
+0	Legume-like lectin
+0	Leg1
+0	Lebercilin domain
+0	Learning associated protein 18-like
+0,3125	LDLR class B repeat
+0,5	LBH domain
+0	La-type HTH domain
+1	Late cornified envelope-like proline-rich protein 1
+1	Late cornified envelope protein 6A
+1	Late cornified envelope protein
+0	Lanthionine synthetase C-like
+0,148648649	Laminin-type EGF domain
+0	Laminin, N-terminal
+0	Laminin IV
+0,055555556	Laminin G domain
+0	Laminin domain II
+0	Laminin alpha, domain I
+1	Lamin-B receptor of TUDOR domain
+0	Lamin tail domain
+0	LACTB2, winged helix domain
+0,25	Lactate/malate dehydrogenase, N-terminal
+0,25	Lactate/malate dehydrogenase, C-terminal
+0	La protein, xRRM domain
+0	L6 membrane
+0	L27 domain, C-terminal
+1	L1 transposable element, RRM domain
+1	L1 transposable element, dsRBD-like domain
+0	Ku70/Ku80, N-terminal alpha/beta
+0	Ku70/Ku80 C-terminal arm
+0	Ku70/Ku80 beta-barrel domain
+0	Ku, C-terminal
+0,98	Krueppel-associated box
+0,111111111	Kringle
+0	KOW
+0	Kinetochore protein Nuf2, N-terminal
+1	Kinetochore protein Cenp-F/LEK1, Rb protein-binding domain
+0	Kinesin-associated microtubule-binding domain
+0	Kinesin-associated
+0,272727273	Kinesin motor domain
+0	KIF-1 binding protein
+0	KICSTOR subunit 2
+0	KIAA1045, RING finger
+0	KH-like RNA-binding domain
+0	KHDRBS, Qua1 domain
+0	KHA domain
+0	Keratinocyte differentiation factor 1
+1	Keratin-associated protein
+1	Keratin type II head
+0	KELK-motif containing domain
+0	Kelch repeat type 2
+0,660714286	Kelch repeat type 1
+1	KBTB, W-type LIR motif
+1	Kazal-type serine protease inhibitor domain
+0,235294118	Kazal domain
+0	Katanin p80 subunit, C-terminal
+0,4	K Homology domain, type 1
+1	Jun-like transcription factor
+0	Junctional cadherin 5-associated protein
+0	Jumonji, helical domain
+1	JMY/WHAMM, N-terminal
+0	JMY/WHAMM, middle domain
+1	JmjN domain
+0,5	JmjC domain
+0	JAK1-3/TYK2, pleckstrin homology-like domain
+0	JAK, FERM F2 lobe domain
+0	JAB1/MPN/MOV34 metalloenzyme domain
+0	Izumo sperm-egg fusion protein
+0	ISWI, HAND domain
+0	Isopropylmalate dehydrogenase-like domain
+0	Isoprenylcysteine carboxyl methyltransferase
+0	Isopenicillin N synthase-like, Fe(2+) 2OG dioxygenase domain
+0	Isochorismatase-like
+0,4	IRS-type PTB domain
+0	Iron-binding zinc finger, CDGSH type
+0	Iron sulphur domain-containing, mitoNEET, N-terminal
+0,588235294	IQ motif, EF-hand binding site
+0,176470588	IPT domain
+0,5	Ionotropic glutamate receptor, L-glutamate and glycine-binding domain
+0	Ionotropic glutamate receptor, C-terminal
+1	Ion transport N-terminal
+0,24137931	Ion transport domain
+0	Ion channel TACAN/TMEM120B
+1	Iodothyronine deiodinase
+0,666666667	Inward rectifier potassium channel, C-terminal
+1	Involucrin, N-terminal
+1	Involucrin repeat
+0	Intron-binding protein aquarius, N-terminal
+0	Intramolecular chaperone auto-processing domain
+0	Intimal thickness related receptor, IRP
+0,035714286	Intermediate filament, rod domain
+1	Intermediate filament head, DNA-binding domain
+0	Interleukin-6
+0	Interleukin-5
+0	Interleukin-31
+0	Interleukin-3
+0	Interleukin-23 alpha
+0	Interleukin-22
+0	Interleukin-2
+0	Interleukin-17 family
+0	Interleukin-13
+0	Interleukin-12 beta, central domain
+0	Interleukin-12 alpha
+0	Interleukin-10/19/20/22/24/26 family
+0	Interleukin-1 receptor-associated kinase 1-binding protein 1/DUF541
+0	Interleukin-1 propeptide
+0	Interleukin-1 family
+0	Interferon regulatory factor-3
+0	Interferon regulatory factor, DNA-binding domain
+1	Interferon regulatory factor 2-binding protein 1 & 2, zinc finger
+0	Interferon gamma
+0	Interferon alpha-inducible protein IFI6/IFI27-like
+1	Interferon alpha/beta/delta
+0	Inter-alpha-trypsin inhibitor heavy chain, C-terminal
+0	Integrin alpha-2
+0	Integrin alpha chain, C-terminal cytoplasmic region, conserved site
+0	Integrase zinc-binding domain
+1	Insulin-like growth factor-binding protein, IGFBP
+0	Insulin-like
+0	Insulin-induced protein family
+0	Inositol-pentakisphosphate 2-kinase
+0	Inositol polyphosphate kinase
+0	Inositol monophosphatase-like
+0	Inositol 1,4,5-trisphosphate/ryanodine receptor
+0	Inorganic pyrophosphatase
+1	INO80 complex subunit B-like conserved region
+0	Initiation factor eIF-4 gamma, MA3
+0	Initiation factor 2B-related
+0	Inhibitory synaptic factor 2
+0	Indoleamine 2,3-dioxygenase
+0,2	Importin-beta, N-terminal domain
+0	Importin-alpha, importin-beta-binding domain
+1	Importin repeat 6
+1	Importin repeat 4
+0	Importin 13, repeat 1
+0	Importin 13 repeat 2
+0	Importin 13 repeat
+0	IMP dehydrogenase/GMP reductase
+0,833333333	Immunoglobulin-like domain
+0,846153846	Immunoglobulin V-set domain
+0	Immunoglobulin J chain
+0,41025641	Immunoglobulin I-set
+0,666666667	Immunoglobulin C2-set
+1	Immunoglobulin C1-set
+0,5	Immunoglobulin
+1	Immediate early response
+0	IMD/I-BAR domain
+0	ILEI/PANDER domain
+0	IL-1Ra-like, immunoglobulin domain
+0	IKBKB, scaffold dimerization domain
+0	I-kappa-kinase-beta NEMO binding domain
+0,166666667	IBR domain
+0	I/LWEQ domain
+1	Hypoxia-inducible lipid droplet-associated protein
+0	Hypoxia-inducible factor, alpha subunit-like
+0,333333333	Hypoxia induced protein, domain
+0	Hydroxymethylglutaryl-coenzyme A synthase, N-terminal
+0	Hydroxymethylglutaryl-coenzyme A synthase, C-terminal domain
+0	Hydantoinase/oxoprolinase, N-terminal
+0	Hydantoinase B/oxoprolinase
+0	Hydantoinase A/oxoprolinase
+0	Hyccin
+0	Hyaluronidase
+0	Huntingtin, middle-repeat
+1	HTH CenpB-type DNA-binding domain
+0	HRDC domain
+0,25	HR1 rho-binding domain
+1	Hox9, N-terminal activation domain
+0	HORMA domain
+0	HOOK, N-terminal
+0	Hook, C-terminal
+0	Homocysteine-binding domain
+0	Homeo-prospero domain
+0,833333333	Homeobox protein SIX1, N-terminal SD domain
+1	Homeobox protein Hox1A3 N-terminal
+0,75	Homeobox KN domain
+1	Homeobox engrailed, C-terminal
+0,666666667	Homeobox domain
+0	HNH nuclease
+0	HMG domain-containing protein 3, CxC4 like cysteine cluster
+0	HIT-like domain
+0	Histone PARylation factor 1
+0,885714286	Histone H2A/H2B/H3
+0,846153846	Histone H2A, C-terminal domain
+0	Histone deacetylase interacting domain
+0	Histone deacetylase domain
+0	Histone deacetylase complex subunit SAP30, Sin3 binding domain
+0	Histone deacetylase complex subunit SAP30 zinc-finger
+0	Histone deacetylase complex subunit SAP25
+0	Histone chaperone RTT106/FACT complex subunit SPT16-like, middle domain
+0	Histone chaperone ASF1-like
+0	Histone acetyltransferase domain, MYST-type
+1	Histidine-rich carboxyl terminus protein 1
+0,285714286	Histidine phosphatase superfamily, clade-1
+0	Histidine kinase/HSP90-like ATPase
+0	HIN-200/IF120x
+0	Hikeshi-like domain
+0	Higher eukaryotic phosphomevalonate kinase
+0,5	High mobility group protein HMGN
+0,4375	High mobility group box domain
+1	HIF-1 alpha, transactivation domain, C-terminal
+0	Hexokinase, N-terminal
+0	Hexokinase, C-terminal
+1	Heterogeneous nuclear ribonucleoprotein A1/A2, C-terminal
+0	Heparinase II, N-terminal
+0,083333333	Hemopexin-like repeats
+0	Helicase-associated domain
+0	Helicase, C-terminal
+0	Helicase Helix-turn-helix domain
+0	Hedgehog, N-terminal signalling domain
+0	Hedgehog protein, Hint domain
+0	HECT domain
+0	Heavy metal-associated domain, HMA
+0	Heat shock protein Hsp90 family
+0	Heat shock protein DnaJ, cysteine-rich domain
+0,571428571	Heat shock protein 70 family
+1	HEAT repeat
+0	Headcase, middle domain
+1	Headcase protein
+1	HAT, C-terminal dimerisation domain
+0	HARP domain
+0	Harbinger transposase-derived nuclease domain
+1	Haloacid dehalogenase-like hydrolase
+0	Haem peroxidase, animal-type
+0	HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase
+0	H/ACA ribonucleoprotein complex, subunit Nop10
+0	GYF domain
+0	Guided entry of tail-anchored proteins factor CAMLG
+0	GUCT
+0	Guanylin
+0	Guanylate-binding protein/Atlastin, C-terminal
+0	Guanylate-binding protein, N-terminal
+0	Guanylate kinase/L-type calcium channel beta subunit
+0	Guanine nucleotide binding protein (G-protein), alpha subunit
+0,5	Gtr1/RagA G protein
+0	GTP-binding protein LepA, C-terminal
+0	GTP binding domain
+0	GSKIP domain
+0	GS domain
+0	GrpE nucleotide exchange factor
+0	Group XII secretory phospholipase A2 precursor
+0	Groucho/TLE, N-terminal Q-rich domain
+0	GroES chaperonin family
+0,8	GRIP domain
+0	Granulocyte-macrophage colony-stimulating factor
+0	GRAM domain
+0,6	GPS motif
+0	G-protein gamma-like domain
+0	GPN-loop GTPase
+0	GPI-GlcNAc transferase complex, PIG-H component, conserved domain
+0	GPI mannosyltransferase 2
+1	GPI mannosyltransferase 1
+0	GPI mannosyltransferase
+0,333333333	GPCR, family 3, nine cysteines domain
+0,090909091	GPCR, family 2, secretin-like
+0	GPCR, family 2, extracellular hormone receptor domain
+0,5	GPCR family 3, C-terminal
+0,333333333	G-patch domain
+1	Gonadotropin-releasing hormone
+0,833333333	GoLoco motif
+0	Golgin subfamily A, conserved domain
+0	Golgin subfamily A member 7/ERF4
+1	Golgin subfamily A member 2, C-terminal binding motif
+0	Golgi phosphoprotein 3-like
+0	Golgi pH regulator, conserved domain
+1	Golgi associated RAB2 interactor protein-like, Rab2B-binding domain
+0	GOLD domain
+0,5	GNAT domain
+0	GMP phosphodiesterase, delta subunit
+0	Glypican
+0	Glycylpeptide N-tetradecanoyltransferase, N-terminal
+0	Glycylpeptide N-tetradecanoyltransferase, C-terminal
+0	Glycosyltransferase, DXD sugar-binding motif
+0	Glycosyltransferase family 18
+1	Glycosyltransferase 61
+0	Glycosyltransferase 2-like
+0	Glycosyl transferase, family 8
+0	Glycosyl transferase, family 6
+0	Glycosyl transferase, family 43
+1	Glycosyl transferase, family 31
+0	Glycosyl transferase, family 25
+0,75	Glycosyl transferase, family 14
+1	Glycosyl transferase, family 13
+0	Glycosyl transferase, family 1
+0	Glycosyl transferase, ALG6/ALG8
+0	Glycosyl transferase family 29
+1	Glycosyl transferase family 10
+0	Glycosyl transferase CAP10 domain
+0	Glycosyl transferase 64 domain
+0	Glycosyl hydrolase, family 13, catalytic domain
+0	Glycosyl hydrolase family 99
+0	Glycosyl hydrolase family 38, C-terminal
+0	Glycoside hydrolase, family 29
+0	Glycoside hydrolase, family 22
+0	Glycoside hydrolase family 47
+0	Glycoside hydrolase family 38, N-terminal domain
+0	Glycoside hydrolase family 38, central domain
+0	Glycoside hydrolase family 31, N-terminal domain
+0,5	Glycoside hydrolase family 31
+0	Glycoside hydrolase family 20, catalytic domain
+0	Glycoside hydrolase family 2, catalytic domain
+0	Glycoside hydrolase family 18, catalytic domain
+0,142857143	Glycoside hydrolase family 1
+0,666666667	Glycoprotein hormone subunit beta
+0	Glycoprotein hormone alpha chain
+0	Glycolipid transfer protein domain
+1	Glycogen synthase kinase-3 binding protein
+0	Glycogen synthase
+0	Glycine N-acyltransferase, N-terminal
+1	Glycine N-acyltransferase, C-terminal
+0	Glycine cleavage system P protein
+0	Glycine cleavage system H-protein/Simiate
+0	Glycerophosphodiester phosphodiesterase domain
+0	Glycerol-3-phosphate dehydrogenase, NAD-dependent, N-terminal
+0	Glycerol-3-phosphate dehydrogenase, NAD-dependent, C-terminal
+0	Glu-tRNAGln amidotransferase C subunit
+0	Glutathione-specific gamma-glutamylcyclotransferase
+0	Glutathione S-transferase, N-terminal
+0	Glutathione S-transferase, C-terminal
+0	Glutathione peroxidase
+0,333333333	Glutaredoxin
+0	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain
+0	Glutamyl/glutaminyl-tRNA synthetase, class Ib, anti-codon binding domain
+0	Glutamine synthetase, N-terminal domain
+0	Glutamine synthetase, catalytic domain
+0	Glutamine amidotransferase
+0	Glutamate-cysteine ligase catalytic subunit
+0	Glutamate [NMDA] receptor, epsilon subunit, C-terminal
+0	Glucose/Sorbosone dehydrogenase
+0	Glucocorticoid-induced transcript 1/FAM117
+1	Glucagon/GIP/secretin/VIP
+0	GLTSCR protein, conserved domain
+0	Globin
+0	GINS subunit, domain A
+0	GHMP kinase, C-terminal domain
+0	GHMP kinase N-terminal domain
+0	Gfo/Idh/MocA-like oxidoreductase, N-terminal
+0	Geminin/Multicilin
+0	Gem-associated protein 6, Sm-like domain
+1	Gem-associated protein 6, C-terminal domain
+1	GDP dissociation inhibitor
+0,666666667	GDNF/GAS1
+0	Gcp-like domain
+0	GCC2, Rab binding domain
+0	Gastrin/cholecystokinin peptide hormone
+0	Gasdermin, PUB domain
+0	Gasdermin, pore forming domain
+0	GAR domain
+1	Gap junction alpha-8 protein (Cx50)
+1	Gap junction alpha-5 protein (Cx40), C-terminal
+1	Gap junction alpha-1 protein (Cx43), C-terminal
+1	Gamma-glutamylcyclotransferase, AIG2-like domain
+0	Gamma-carboxyglutamic acid-rich (GLA) domain
+0	Gamma-aminobutyric acid type B receptor subunit 2, coiled-coil domain
+0	Galectin, carbohydrate recognition domain
+0	Galactosyltransferase, N-terminal
+0	Galactosyltransferase, C-terminal
+0	Galactose-3-O-sulfotransferase
+0	GAIN domain, N-terminal
+0	GAF domain
+0	GAD domain
+0	G8 domain
+1	G0/G1 switch protein 2
+1	G protein-regulated inducer of neurite outgrowth, C-terminal
+0,725	G protein-coupled receptor, rhodopsin-like
+0,25	FYVE zinc finger
+0	Furin-like cysteine-rich domain
+0	Fumarylacetoacetase-like, C-terminal
+1	Fucosyltransferase, N-terminal
+0	Fructose-bisphosphate aldolase, class-I
+0	Fructose-1-6-bisphosphatase class I, N-terminal
+0	Fructose-1-6-bisphosphatase class 1, C-terminal
+0,857142857	Frizzled/Smoothened, transmembrane domain
+0,75	Frizzled domain
+0	Frag1/DRAM/Sfk1
+1	FOXO protein, transactivation domain
+1	FOXO protein, KIX-binding domain
+0	Formin, FH2 domain
+0	Formiminotransferase, N-terminal subdomain
+0	Formate-tetrahydrofolate ligase, FTHFS
+1	Formamidopyrimidine-DNA glycosylase, catalytic domain
+0,333333333	Forkhead-associated (FHA) domain
+0,833333333	Fork head domain
+1	Follistatin/Osteonectin EGF domain
+0	Follicular dendritic cell secreted peptide
+0	Folate receptor-like
+0	Focadhesin/RST, DUF3730
+0	Focadhesin
+0	FMR1-interacting protein 1, conserved domain
+0	Flavoprotein pyridine nucleotide cytochrome reductase-like, FAD-binding domain
+0	Flavodoxin-like fold
+0	Flavodoxin/nitric oxide synthase
+0	Flavin monooxygenase-like
+0	Flap endonuclease GEN, chromatin organization modifier domain
+0	Flagellar C1a complex subunit C1a-32
+0	FKBP-type peptidyl-prolyl cis-trans isomerase domain
+0	FKBP3, basic tilted helix bundle domain
+0	FKBP12-rapamycin binding domain
+0	Fis1, N-terminal tetratricopeptide repeat
+0	Fis1, C-terminal tetratricopeptide repeat
+0	Filamin/ABP280 repeat-like
+1	Filaggrin
+1	Fido domain
+0	Fibrous sheath-interacting protein 1
+1	Fibronectin, type I
+1	Fibronectin type III domain-containing protein 10
+0,05	Fibronectin type III
+0,333333333	Fibronectin type II domain
+0	Fibroblast growth factor family
+0,142857143	Fibrinogen, alpha/beta/gamma chain, C-terminal globular domain
+0	Fibrillin 1, unique N-terminal domain
+0	Fibrillar collagen, C-terminal
+0,5	FHF complex subunit HOOK interacting protein, KELAA motif
+0	FHF complex subunit HOOK interacting protein, C-terminal
+0	FHF complex subunit HOOK interacting protein
+0,444444444	FG-GAP repeat
+1	FGF binding 1
+0	FF domain
+0	Ferroportin-1
+0	Ferrodoxin-fold anticodon-binding domain
+1	Ferritin/DPS protein domain
+0	Ferric reductase, NAD binding domain
+0	Ferric reductase transmembrane component-like domain
+0	FERM, N-terminal
+0	FERM, C-terminal PH-like domain
+0	FERM F1 lobe ubiquitin-like domain
+0	FERM central domain
+0	FERM adjacent (FA)
+0	Ferlin, C-terminal domain
+0	Ferlin B-domain
+0	FerIin domain
+0	FDF domain
+0	FCP1 homology domain
+0	FCH domain
+0	Fcf2 pre-rRNA processing, C-terminal
+0,727272727	F-box domain
+0	F-box associated (FBA) domain
+0	Fatty acyl-coenzyme A reductase, NAD-binding domain
+0	Fatty acyl-CoA reductase, C-terminal
+0,5	Fatty acid hydroxylase
+0	Fatty acid desaturase domain
+0,5	FATC domain
+0	FAST kinase-like protein, subdomain 2
+1	FAST kinase leucine-rich
+0,5	Fascin domain
+0	FAS1 domain
+0	Fanconi Anaemia group E protein, C-terminal
+0	Fanconi anaemia group C protein
+0	Family of unknown function DUF5537
+0	Family of FAM53
+0	FAM98
+0	FAM91, N-terminal domain
+0	FAM91, C-terminal domain
+0	FAM86, N-terminal
+0	FAM83, N-terminal
+0	FAM69, protein-kinase domain
+0	FAM25
+0	FAM24 family
+0	FAM229 protein
+1	FAM217 family
+0	FAM216
+1	FAM212 domain
+0	FAM20, C-terminal
+0	FAM180 family
+0	FAM171
+1	FAM167
+0	FAM163
+0	FAM153
+0	FAM105
+0	FAD-linked oxidase, C-terminal
+0	FAD-binding 8
+0	FAD/NAD(P)-binding domain
+0	FAD linked oxidase, N-terminal
+0	FAD dependent oxidoreductase
+0,5	F-actin-capping protein subunit alpha
+0	FACT complex subunit Spt16, N-terminal lobe domain
+0	FACT complex subunit Spt16 domain
+0	Ezrin/radixin/moesin, C-terminal
+0	Ezrin/radixin/moesin, alpha-helical domain
+0	Extracellular sulfatase, C-terminal
+0	Exportin-T, C-terminal domain
+0	Exportin-5, C-terminal domain
+0,25	Exportin-1/Importin-beta-like
+0	Exportin-1, repeat 3
+0	Exportin-1, repeat 2
+0	Exportin-1, C-terminal
+0,333333333	Exostosin, GT47 domain
+0	Exosome complex component, N-terminal domain
+0	Exosome complex component CSL4, C-terminal
+0,25	Exoribonuclease, phosphorolytic domain 2
+0	Exoribonuclease, phosphorolytic domain 1
+0	Exonuclease, RNase T/DNA polymerase III
+1	Exonuclease V
+1	Exocyst component Exo84, C-terminal
+0	Exocyst complex component Sec3, PIP2-binding N-terminal domain
+0	Exocyst complex component Sec10-like
+0	Exocyst complex component EXOC3/Sec6
+0	Exocyst complex component EXOC2/Sec5, N-terminal domain
+0	Ewing's tumour-associated antigen 1
+0	EVA1 domain
+0	Eukaryotic translation initiation factor 4E binding
+0	Eukaryotic translation initiation factor 3 subunit E, N-terminal
+0	Eukaryotic rRNA processing
+0	Eukaryotic porin/Tom40
+0,333333333	Ets domain
+0	Esterase-like
+0	Essential protein Yae1, N-terminal
+0	Erythropoietin/thrombopoietin
+0	ERV/ALR sulfhydryl oxidase domain
+0	Erg28
+1	eRF1 domain 3
+0	eRF1 domain 2
+1	eRF1 domain 1/Pelota-like
+0	ERAP1-like C-terminal domain
+0	ER membrane protein complex subunit 8/9
+0	ER membrane protein complex subunit 7, beta-sandwich domain
+0	Epithelial sodium channel
+1	Epithelial cell adhesion molecule N-terminal domain
+0	Ephrin receptor-binding domain
+0	Enoyl-CoA hydratase/isomerase
+0	Enkurin domain
+0	Enhancer of rudimentary
+0	Enhancer of polycomb-like, N-terminal
+0	Enhancer of polycomb, C-terminal
+1	Endothelin-like toxin
+0	Endothelial cell-specific chemotaxis regulator
+1	Endoribonuclease Regnase 1/ZC3H12, C-terminal domain
+0	Endoplasmic reticulum vesicle transporter, N-terminal
+0	Endoplasmic reticulum vesicle transporter, C-terminal
+0	Endoplasmic reticulum oxidoreductin 1
+0	Endonuclease/exonuclease/phosphatase
+0	Endonuclease VIII-like 1, DNA binding
+1	Enamelin
+0	EMI domain
+0	Elongator complex protein 1
+0	Elongation factor EFG, domain V-like
+0	Elongation factor 1 beta central acidic region, eukaryote
+0	ELO family
+0	ELMO domain
+0	ELM2 domain
+0	EKC/KEOPS complex subunit GON7, metazoa
+0	eIF3h, C-terminal
+1	EH domain-containing protein, N-terminal
+1	EH domain
+0,7	EGF-like, conserved site
+1	EGF-like domain, extracellular
+0,738095238	EGF-like domain
+0,166666667	EGF-like calcium-binding domain
+0,416666667	EGF domain
+0	EF-hand domain, type 2
+0	EF-hand domain, type 1
+0,290909091	EF-hand domain
+1	Early growth response, N-terminal
+1	Early growth response protein 1, C-terminal
+1	E3 ubiquitin-protein ligase makorin 1, C-terminal
+0	E3 Ubiquitin ligase MUL1-like
+1	E3 ligase, CCCH-type zinc finger
+0	E2F-associated phosphoprotein
+1	E2F/DP family, winged-helix DNA-binding domain
+0	E2F transcription factor, CC-MB domain
+0	DZF domain
+1	Dystroglycan, C-terminal
+0	Dynein regulatory complex protein 1/2, N-terminal
+0	Dynein regulatory complex protein 1, C-terminal
+0	Dynein light chain, type 1/2
+0,333333333	Dynein light chain Tctex-1 like
+0	Dynein heavy chain, tail
+0	Dynein heavy chain, linker
+0	Dynein heavy chain, hydrolytic ATP-binding dynein motor region
+0	Dynein heavy chain, C-terminal domain
+0	Dynein heavy chain, coiled coil stalk
+0	Dynein heavy chain, ATP-binding dynein motor region
+0	Dynein heavy chain, AAA module D4
+0	Dynein heavy chain, AAA 5 extension domain
+0	Dynein heavy chain region D6 P-loop domain
+0	Dynein heavy chain AAA lid domain
+0	Dynein heavy chain 3, AAA+ lid domain
+0	Dynein axonemal assembly factor 8
+0	Dynamin, N-terminal
+1	Dual specificity/tyrosine protein phosphatase, N-terminal
+0,1	Dual specificity phosphatase, catalytic domain
+0	Drought induced 19 protein type, zinc-binding domain
+0	Draxin
+0,25	Dpy-30 motif
+0	Dpy-19/Dpy-19-like
+0	DoxX family
+0,5	Doublecortin domain
+0	Dopey, N-terminal
+0	Domain of unknown function with conserved HDNR motif
+1	Domain of unknown function DUF5921
+0	Domain of unknown function DUF5600
+0	Domain of unknown function DUF5050
+1	Domain of unknown function DUF4939
+0	Domain of unknown function DUF4772
+0	Domain of unknown function DUF4685
+1	Domain of unknown function DUF4683
+1	Domain of unknown function DUF4629
+0	Domain of unknown function DUF4604
+0	Domain of unknown function DUF4599
+0	Domain of unknown function DUF4592
+1	Domain of unknown function DUF4585
+0	Domain of unknown function DUF4525
+0	Domain of unknown function DUF4524
+0	Domain of unknown function DUF4520
+0	Domain of unknown function DUF4515
+0	Domain of unknown function DUF4378
+1	Domain of unknown function DUF4371
+0	Domain of unknown function DUF4347
+0	Domain of unknown function DUF4217
+0	Domain of unknown function DUF4203
+1	Domain of unknown function DUF4201
+0	Domain of unknown function DUF4200
+1	Domain of unknown function DUF4074
+0	Domain of unknown function DUF3677
+1	Domain of unknown function DUF3528, homeobox protein, eukaryotic
+0	Domain of unknown function DUF3517
+0	Domain of unknown function DUF3456
+0	Domain of unknown function DUF3385, target of rapamycin protein
+0	Domain of unknown function DUF1977, DnaJ-like
+0	Domain of unknown function DUF1899
+0	Domain of unknown function DUF1087
+0	Dolichol phosphate-mannose biosynthesis regulatory
+0	DOCKER, Lobe C
+0	DOCKER, Lobe B
+0	DOCKER, Lobe A
+0,2	DnaJ domain
+0	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+0	DNA-directed RNA polymerase, RpoA/D/Rpb3-type
+0,333333333	DNA-directed RNA polymerase, RBP11-like dimerisation domain
+0	DNA-directed RNA polymerase, insert domain
+0	DNA-directed RNA polymerase III, subunit Rpc31
+0	DNA-directed RNA polymerase III subunit RPC4
+0	DNA-directed DNA polymerase, family B, multifunctional domain
+0	DNA-directed DNA polymerase, family B, exonuclease domain
+0	DNA-directed DNA polymerase, family A, palm domain
+0	DNA-binding RFX-type winged-helix domain
+0	DNA2/NAM7 helicase-like, C-terminal
+0	DNA2/NAM7 helicase, helicase domain
+1	DNA/RNA-binding protein Alba-like
+0	DNA/RNA-binding domain, Est1-type
+0	DNA/RNA non-specific endonuclease
+0	DNA replication/checkpoint protein
+1	DNA repair metallo-beta-lactamase
+0,5	DNA recombination and repair protein Rad51-like, C-terminal
+0	DNA primase, small subunit
+0	DNA polymerase lambda, fingers domain
+0	DNA polymerase epsilon, catalytic subunit A, C-terminal
+0	DNA polymerase delta subunit, OB-fold domain
+0	DNA polymerase beta-like, N-terminal domain
+0	DNA polymerase beta, thumb domain
+0	DNA polymerase beta, palm domain
+0	DNA polymerase alpha/delta/epsilon, subunit B
+0	DNA photolyase, N-terminal
+0	DNA mitochondrial polymerase, exonuclease domain
+0	DNA mismatch repair protein MutS-like, N-terminal
+0	DNA mismatch repair protein MutS, C-terminal
+0	DNA mismatch repair protein MutS, core
+0	DNA mismatch repair protein MutS, connector domain
+0	DNA mismatch repair protein MutS, clamp
+0	DNA methyltransferase 1-associated 1
+1	DNA ligase, ATP-dependent, N-terminal
+1	DNA ligase, ATP-dependent, C-terminal
+1	DNA ligase, ATP-dependent, central
+1	DNA ligase IV domain
+0	DNA glycosylase/AP lyase, H2TH DNA-binding
+1	DNA binding HTH domain, Psq-type
+1	DMRTA motif
+1	DMRT5/1, DMB domain
+1	DM DNA-binding domain
+0	DJ-1/PfpI
+0	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain
+0	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+0,666666667	Disintegrin domain
+0	Dipeptidylpeptidase IV, N-terminal domain
+0	Dienelactone hydrolase
+0	Dickkopf, N-terminal cysteine-rich
+0	Diacylglycerol kinase, catalytic domain
+0	Diacylglycerol kinase, accessory domain
+0	Diacylglycerol acyltransferase
+1	D-glucuronyl C5-epimerase, C-terminal
+0	Developmental pluripotency-associated protein 3
+0	Developmental pluripotency-associated protein 2/4, C-terminal domain
+1	Developmental pluripotency-associated protein 2/4, central domain
+1	Deubiquitinating protein VCPIP1, N-terminal
+0	Deubiquitinating enzyme MINDY-3/4, conserved domain
+0	Dermatopontin family
+0	DEP domain
+0	DeoC/FbaB/LacD aldolase
+0	Dendrin
+0	Deltex, C-terminal
+1	Delta/Serrate/lag-2 (DSL) protein
+0	Delta and Notch-like epidermal growth factor-related receptor, C-terminal
+0,5	Dehydrogenase, E1 component
+0	Dedicator of cytokinesis, N-terminal domain
+1	Decidual protein, progesterone induced
+0	Decaprenyl diphosphate synthase-like
+1	Death effector domain
+0,6	Death domain
+0	DEAD-box helicase, OB fold
+0	DEAD/DEAH box helicase domain
+0	dDENN domain
+1	DDE superfamily endonuclease domain
+1	DDB1- and CUL4-associated factor 16
+0	DC-UbP/UBTD2, N-terminal domain
+0	Dbl homology (DH) domain
+0	DBINO domain
+1	DAPIN domain
+0	DAP1/DAPL1
+0,5	DAN
+0	DAMP1, SANT/Myb-like domain
+0	D-aminoacyl-tRNA deacylase DTD
+0	Damage-control phosphatase ARMT1-like, metal-binding domain
+0	DALR anticodon binding
+0	DAD/Ost2
+0	D-3-phosphoglycerate dehydrogenase, ASB domain
+0	Cytosolic phospholipases A2, C2-domain
+0	Cytosolic carboxypeptidase, N-terminal
+0	Cytokine-like protein 1
+0	Cytochrome P450
+0	Cytochrome c-like domain
+0	Cytochrome c1
+1	Cytochrome C oxidase, subunit VIIB
+0	Cytochrome c oxidase, subunit VIa
+0	Cytochrome c oxidase, subunit Vb
+0	Cytochrome c oxidase, subunit Va/VI
+0	Cytochrome c oxidase, subunit 8
+0	Cytochrome c oxidase subunit VIIc
+0	Cytochrome c oxidase subunit VII
+0	Cytochrome c oxidase biogenesis protein Cmc1-like
+0	Cytochrome c oxidase assembly protein COX16
+1	Cytochrome c oxidase assembly protein COX14
+0	Cytochrome c oxidase assembly factor 1
+0	Cytochrome b-c1 complex subunit 8
+0,25	Cytochrome b5-like heme/steroid binding domain
+0	Cytidyltransferase-like domain
+0	Cytidine and deoxycytidylate deaminase domain
+0	Cysteine-rich transmembrane CYSTM domain
+0	Cysteine-rich motor neuron 1 protein, C-terminal
+1	Cysteine-rich flanking region, C-terminal
+1	Cysteine-rich C-terminal protein 1
+0	Cysteine/serine-rich nuclear protein, N-terminal domain
+1	Cysteine protease ATG4, F-type LIR motif
+1	Cysteine oxygenase/2-aminoethanethiol dioxygenase
+0	Cysteine dioxygenase type I
+0	CYRIA/CYRIB, Rac1 binding domain
+0	Cylicin, N-terminal
+0,538461538	Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain
+0	Cyclin-dependent kinase, regulatory subunit
+1	Cyclin-dependent kinase inhibitor domain
+1	Cyclin-dependent kinase 5 activator
+0	Cyclin-A, N-terminal APC/C binding region
+0	Cyclin, N-terminal
+0	Cyclin, C-terminal domain 2
+0	Cyclin, C-terminal domain
+0	Cyclin PHO80-like
+1	Cyclic nucleotide-gated channel, C-terminal leucine zipper domain
+0,090909091	Cyclic nucleotide-binding domain
+0	CXXC motif containing zinc binding protein, eukaryotic
+1	CXCXC repeat
+1	CXC chemokine receptor 4 N-terminal domain
+0,5	CUT domain
+0	Cupin-like domain 8
+0	Cullin, N-terminal
+0	Cullin protein, neddylation domain
+0	CUB domain
+0,375	C-type lectin-like
+0	Ctr copper transporter
+0	CTNNB1 binding, N-teminal
+0	C-terminal of Roc (COR) domain
+1	c-SKI SMAD4-binding domain
+0	CSC1/OSCA1-like, N-terminal transmembrane domain
+0	CSC1/OSCA1-like, cytosolic domain
+0	CSC1/OSCA1-like, 7TM region
+0	CS domain
+0	Cryptochrome/DNA photolyase, FAD-binding domain
+1	Cryptic/Cripto, CFC domain
+0,75	CRIB domain
+0	CRAL-TRIO lipid binding domain
+0,5	CRAL/TRIO, N-terminal domain
+0	CPL domain
+0	CPI-17
+0	CPH domain
+0	CP2 transcription factor
+0,5	Costars domain
+0	Corticotropin-releasing factor-binding protein
+1	Corticotropin-releasing factor
+1	Cortexin
+0	Cortactin-binding protein-2, N-terminal
+0	Cornichon
+0	Copper type II, ascorbate-dependent monooxygenase, N-terminal
+0	Copper type II ascorbate-dependent monooxygenase, C-terminal
+0	Copine, C-terminal
+0	Cop9 signalosome subunit 5 C-terminal domain
+0	COP9 signalosome complex subunit 7, helix I
+0,842105263	Connexin, N-terminal
+0	Condensin complex subunit 1, N-terminal
+0	Condensin complex subunit 1, C-terminal
+0	Concentrative nucleoside transporter N-terminal domain
+0	Concentrative nucleoside transporter C-terminal domain
+0	Complex III assembly factor UQCC2/CBP6
+0	Complex 1 LYR protein domain
+0,125	Complement Clr-like EGF domain
+0	Complement C3/4/5, macroglobulin domain MG1
+0,333333333	COMM domain
+0	Collagenase NC10/endostatin
+0	Collagen type XV/XVIII, trimerization domain
+0,117647059	Collagen triple helix repeat
+0	Collagen IV, non-collagenous
+0	Colipase, N-terminal
+0	Colipase, C-terminal
+0	Cold-shock protein, DNA-binding
+1	Coiled-coil domain-containing protein 168, N-terminal
+0	Coiled-coil domain-containing protein 167
+1	Coenzyme A transferase family I
+0	CobW/HypB/UreG, nucleotide-binding domain
+0	Cobalamin adenosyltransferase-like
+0	Cobalamin (vitamin B12)-binding domain
+0	Coagulation factor 5/8 C-terminal domain
+0	CoA-binding
+0	CO dehydrogenase flavoprotein, C-terminal
+0	Cns1/TTC4, wheel domain
+0	Clp ATPase, C-terminal
+0	Clock-interacting pacemaker
+0	Cleavage/polyadenylation specificity factor, A subunit, N-terminal
+0	Cleavage/polyadenylation specificity factor, A subunit, C-terminal
+1	Cleavage stimulation factor subunit 2, hinge domain
+0	Cleavage inducing molecular chaperone, Jiv
+0	Cleavage and polyadenylation specificity factor 2, C-terminal
+0	Clathrin/coatomer adaptor, adaptin-like, N-terminal
+0	Clathrin, heavy chain/VPS, 7-fold repeat
+0	Clathrin adaptor, alpha/beta/gamma-adaptin, appendage, Ig-like subdomain
+0	Class I myosin tail homology domain
+0	Citron homology (CNH) domain
+0	Citrate synthase
+1	CITED
+0	Cilia- and flagella-associated protein 418
+0	Cilia- and flagella-associated protein 206
+0	Cilia- and flagella-associated protein 144
+0	Cilia- and flagella-associated protein 141
+0	Cilia and flagella associated protein 90
+0	CID domain
+0	Chromosome segregation protein Spc25, C-terminal
+0	Chromosome segregation in meiosis protein 3
+0	Chromosome region maintenance repeat
+0,333333333	Chromogranin A/B/C
+0	Chromo shadow domain
+0	Chromo domain
+0	Chondroitin N-acetylgalactosaminyltransferase
+0	Choline/carnitine acyltransferase domain
+0	Cholecystokinin A receptor, N-terminal
+0	Chloride channel, voltage gated
+0	CH-like domain in sperm protein
+1	Chibby family
+0	Chemokine interleukin-8-like domain
+1	Checkpoint protein Hus1/Mec3
+0	CHD, N-terminal
+0	CHD, C-terminal 2
+0	CHD subfamily II, SANT-like domain
+1	CHCH
+0,5	Chaperonin Cpn60/GroEL/TCP-1 family
+0	Chaperone DnaJ, C-terminal
+0	CFA20 domain
+0	Ceroid-lipofuscinosis neuronal protein 5
+0	Ceramide glucosyltransferase
+1	Centrosome-associated, FAM110, N-terminal domain
+1	Centrosome-associated, FAM110, C-terminal domain
+0	Centrosomal protein of 290kDa, coiled-coil region
+0	Centromere protein Q
+0	Centromere protein H, C-terminal
+0	Centromere protein Cenp-K
+0	Centromere protein Cenp-F, N-terminal
+1	Centromere protein Cenp-F, leucine-rich repeat-containing domain
+1	CENP-T/Histone H4, histone fold
+0	Cell morphogenesis protein N-terminal
+0	Cell morphogenesis protein C-terminal
+0	Cell morphogenesis central region
+0	Cell division cycle protein 123
+0	Cell division control protein 73, C-terminal
+0	Cell cycle regulatory protein Speedy
+1	CECR6/TMEM121 family
+0	CDP-alcohol phosphatidyltransferase
+0	cDENN domain
+0	Cdc6, C-terminal
+1	CDC50/LEM3 family
+0	CDC48, N-terminal subdomain
+0	CDC48, domain 2
+1	Cdc42 effector
+0	Cdc42 binding domain-like
+0	Cdc37, Hsp90 binding
+1	CD80-like, immunoglobulin C2-set
+1	CD4, extracellular
+0	CD3 gamma/delta subunit, Ig-like domain
+0	CD225/Dispanin family
+0	CD20-like family
+1	CD180, leucine-rich repeat
+0	CCZ1/INTU/HSP4, first Longin domain
+0	CCZ1/INTU/HPS4, third Longin domain
+0	CCZ1/INTU, second Longin domain
+0	CCR4-NOT transcription complex subunit 11
+1	CCN, TSP1 domain
+0	CCDC93, coiled-coil domain
+0,5	CCDC85 family
+1	CCDC144C-like, coiled-coil domain
+0	CCAAT-binding factor
+0,5	CBS domain
+1	CBM21 (carbohydrate binding type-21) domain
+0	Cavin family
+0	Caveolin
+1	Caudal-like activation domain
+0	Cation-transporting P-type ATPase, N-terminal
+0	Cation-transporting P-type ATPase, C-terminal
+0,066666667	Cation-independent mannose-6-phosphate receptor repeat
+0	Cationic amino acid transporter, C-terminal
+0	Cation/H+ exchanger
+0	Cation efflux protein
+0	Cation channel sperm-associated auxiliary subunit TMEM249
+0	Cathepsin propeptide inhibitor domain (I29)
+0	CASTOR1, N-terminal
+0	CASTOR, ACT domain
+1	Casein, alpha/beta
+0	Casein kinase substrate, phosphoprotein PP28
+0	Casein kinase II, regulatory subunit
+0	Cas1p 10 TM acyl transferase domain
+0	CART satiety factor
+0	Carotenoid oxygenase
+0	Carnosine N-methyltransferase
+0,666666667	CARD domain
+0	Carboxypeptidase, activation peptide
+0	Carbon-nitrogen hydrolase
+1	Carbohydrate kinase, FGGY, N-terminal
+1	Carbohydrate kinase, FGGY, C-terminal
+1	Carbohydrate binding module family 20
+0	Carbamoyl-phosphate synthetase, large subunit oligomerisation domain
+0	Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain
+0	Carbamoyl-phosphate synthase small subunit, N-terminal domain
+1	CAP Gly-rich domain
+0	CAP domain
+0,333333333	cAMP-dependent protein kinase regulatory subunit, dimerization-anchoring domain
+0	cAMP-dependent protein kinase inhibitor
+1	CAMPATH-1 antigen (CD52)
+0	Calsequestrin
+0	Calponin homology domain
+1	Calcium-binding and spermatid-specific protein 1
+0	Calcium-activated potassium channel BK, alpha subunit
+0	Calcium-activated chloride channel, N-terminal
+0	Calcium/calmodulin-dependent protein kinase II inhibitor
+0	Calcium uniporter protein, C-terminal
+0	Calcium release-activated calcium channel protein
+0	Calcium homeostasis modulator family
+1	Calcitonin/adrenomedullin
+0	Calcineurin-like phosphoesterase domain, ApaH type
+0,717791411	Cadherin-like
+1	Cadherin, Y-type LIR-motif
+1	Cadherin, N-terminal
+1	Cadherin, cytoplasmic C-terminal domain
+0	CAAX prenyl protease 1, N-terminal
+0	C4b-binding protein alpha, oligomerization domain
+0,5	C2 phosphatidylinositol 3-kinase-type domain
+0,161290323	C2 domain
+0	C2 DOCK-type domain
+0,7	C1q domain
+0	C->U-editing enzyme APOBEC-1
+0	Bystin
+0	Bud22 domain
+1	BTB/POZ domain-containing protein KCTD4, C-terminal
+1	BTB/POZ domain-containing protein KCTD11/21, C-terminal domain
+0,631578947	BTB/POZ domain
+0,75	BTB/Kelch-associated
+1	BspA type Leucine rich repeat region
+0,5	Bromodomain
+0	Bromo adjacent homology (BAH) domain
+0	BRO1 domain
+0	Brix domain
+1	Brinker DNA-binding domain
+0	BRICHOS domain
+0,5	BRCT domain
+0	Branched-chain alpha-ketoacid dehydrogenase kinase/Pyruvate dehydrogenase kinase, N-terminal
+0	BP28, C-terminal domain
+0	Borealin, N-terminal
+0	Borealin, C-terminal
+0	Bone sialoprotein 2
+1	BolA protein
+0	bMERB domain
+1	BLOC-2 complex member HPS6, N-terminal domain
+1	BLOC-2 complex member HPS6, C-terminal domain
+0	BIR repeat
+0	Biotin/lipoyl attachment
+0	Biotin carboxylase-like, N-terminal domain
+0	Biotin carboxylase, C-terminal
+0	BING4, C-terminal domain
+0	Biliverdin reductase, catalytic
+0,25	Bile acid:sodium symporter/arsenical resistance protein Acr3
+0	Beta-thymosin
+0	Beta-microseminoprotein
+0	Beta-mannosidase, Ig-fold domain
+0	Beta-hexosaminidase, eukaryotic type, N-terminal
+1	Beta-defensin 136/42
+1	Beta-defensin
+0	Beta-catenin-interacting ICAT domain
+0	Beta-Casp domain
+1	Beta-1,3-galactosyltransferase 2, N-terminal
+0,8	Beta/gamma crystallin
+1	Beta defensin type
+0	Bestrophin-like
+0,8	BEN domain
+0	BDHCT
+0	BCS1, N-terminal
+1	Bcl-2, Bcl-2 homology region 1-3
+1	B-cell lymphoma 9, beta-catenin binding domain
+1	B-box-type zinc finger
+0	Bax inhibitor 1-related
+0,625	Basic-leucine zipper domain
+0,8	Basic leucine zipper domain, Maf-type
+0	Barttin
+0	BAR domain
+0	Band 7 domain
+1	BAG domain
+0	Baculoviral IAP repeat-containing protein 6
+0	BAAT/Acyl-CoA thioester hydrolase C-terminal
+0	B3/B4 tRNA-binding domain
+0	AVL9/DENND6 domain
+0	Autophagy-related protein 101
+0,5	Autophagy protein Atg8 ubiquitin-like
+0	Autism susceptibility gene 2 protein
+0	Augurin
+0	Atypical Arm repeat
+0	Atrophin-like
+0	ATP-sulfurylase PUA-like domain
+0	ATP-grasp fold, RimK-type
+0	ATP-dependent RNA helicase Ski2/MTR4, C-terminal
+0	ATP-dependent DNA helicase RecQ, zinc-binding domain
+0	ATP-citrate lyase/succinyl-CoA ligase
+0	ATPase, V1 complex, subunit D
+0	ATPase, V1 complex, subunit C
+0	ATPase, V0 complex, subunit e1/e2
+0	ATPase, V0 complex, c/d subunit
+0	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain
+0	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+0,125	ATPase, dynein-related, AAA domain
+0	ATPase, AFG1-like
+0,181818182	ATPase, AAA-type, core
+0	ATPase PAAT-like
+0	ATPase family AAA domain-containing protein 3, N-terminal
+0	ATP:guanido phosphotransferase, N-terminal
+0	ATP:guanido phosphotransferase, catalytic domain
+0	ATP synthase, F0 complex, subunit G, mitochondrial
+0	ATP synthase, F0 complex, subunit E, mitochondrial
+0	ATP synthase, F0 complex, subunit B/MI25
+0	ATP synthase membrane subunit K
+1	Atg6/beclin, coiled-coil domain
+1	Atg6, BARA domain
+0	Atg2/VPS13, C-terminal
+1	Ataxin-2, C-terminal
+0	Association with the SNF1 complex (ASC) domain
+0	Aspartyl/Glutamyl-tRNA(Gln) amidotransferase, subunit B/E, catalytic
+1	Aspartic peptidase, N-terminal
+0	Aspartic peptidase, DDI1-type
+0	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding
+0	Aspartate/ornithine carbamoyltransferase, Asp/Orn-binding domain
+0	Asn/Gln amidotransferase
+0	ASCH domain
+0	Arylesterase
+1	Arylamine N-acetyltransferase
+0	Arv1 protein
+0	Arrestin-like, N-terminal
+0	Arrestin C-terminal-like domain
+0	Aromatic amino acid hydroxylase, C-terminal
+0	Aromatic amino acid beta-eliminating lyase/threonine aldolase
+0	Armadillo-like helical domain-containing protein 2
+0,228571429	Armadillo
+0	ARID DNA-binding domain
+0	Ariadne domain
+0	Argonaute, linker 1 domain
+0	Argonaute linker 2 domain
+0	Arginyl-tRNA synthetase, catalytic core domain
+0	Argininosuccinate synthase
+1	Arginine vasopressin-induced protein 1/transcriptional and immune response regulator
+0	ARF7 effector protein, C-terminal
+0	Arf GTPase activating protein
+1	Apolipoprotein F
+1	Apolipoprotein B100 C-terminal
+0	Apolipoprotein A-II (ApoA-II)
+1	APOBEC-like, N-terminal
+0	APC10/DOC domain
+0	AP complex, mu/sigma subunit
+0,75	Antistasin-like domain
+0	Anti-proliferative protein
+0,5	Anticodon-binding
+1	Annexin-2 receptor
+0	Annexin repeat
+0	Ankyrin repeat domain-containing protein 13
+0,262626263	Ankyrin repeat
+1	Anaphylatoxin/fibulin
+0	Anaphase-promoting complex, subunit CDC26
+0,25	Anaphase-promoting complex subunit 4, WD40 domain
+0	Anaphase-promoting complex subunit 16
+0	Anaphase-promoting complex subunit 1, middle domain
+0	Anaphase-promoting complex subunit 1, C-terminal
+0	Anaphase-promoting complex subunit 1
+0	AMPK, C-terminal adenylate sensor domain
+0	AMP-dependent synthetase/ligase domain
+0	AMP-binding enzyme, C-terminal domain
+0	AMP-activated protein kinase, glycogen-binding domain
+0	Ammonium transporter AmtB-like domain
+0	AMMECR1 domain
+0	Aminotransferase, class I/classII
+0	Aminotransferase class V domain
+0	Aminopeptidase N-like , N-terminal domain
+0,333333333	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+0	Aminoacyl-tRNA synthetase, class II (D/K/N)
+0	Aminoacyl-tRNA synthetase, class Ic
+0	Aminoacyl-tRNA synthetase, class Ia
+0	Amino acid/polyamine transporter I
+0	Amino acid transporter, transmembrane domain
+0	Amine oxidase
+0	Amidohydrolase-related
+0	Amidase signature domain
+0	Alpha-N-methyltransferase NTM1
+0	Alpha-macroglobulin-like, TED domain
+0	Alpha-macroglobulin, receptor-binding
+0	Alpha-L-fucosidase, C-terminal
+0	Alpha-L-arabinofuranosidase B, arabinose-binding domain
+0	Alpha-ketoglutarate-dependent dioxygenase AlkB-like
+1	Alpha-dystroglycan N-terminal domain 2
+1	Alpha-defensin, N-terminal
+1	Alpha-defensin, C-terminal
+0	Alpha-amylase/branching enzyme, C-terminal all beta
+0	Alpha-2-macroglobulin, bait region domain
+0	Alpha-2-macroglobulin receptor-associated protein, domain 1
+0	Alpha-2-macroglobulin RAP, C-terminal
+0	Alpha-2-macroglobulin
+0	Alpha-2-glucosyltransferase Alg10
+0,5	Alpha/beta hydrolase fold-3
+0	Alpha/beta hydrolase fold-1
+0,5	Alpha crystallin/Hsp20 domain
+0	Alpha carbonic anhydrase domain
+1	Alpha 1,4-glycosyltransferase domain
+0	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant
+0	Alkaline phosphatase
+0	ALG11 mannosyltransferase, N-terminal
+0	Aldose 1-/Glucose-6-phosphate 1-epimerase
+0	Aldehyde oxidase/xanthine dehydrogenase, second molybdopterin binding domain
+0	Aldehyde oxidase/xanthine dehydrogenase, first molybdopterin binding domain
+0	Aldehyde oxidase/xanthine dehydrogenase, a/b hammerhead
+0,25	Aldehyde dehydrogenase domain
+0	Alcohol dehydrogenase-like, N-terminal
+0	Alcohol dehydrogenase-like, C-terminal
+0	Alanyl-tRNA synthetase, class IIc, N-terminal
+0	Alanine racemase, N-terminal
+0	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, N-terminal
+0	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, NAD(H)-binding domain
+0	A-kinase anchor 110kDa, C-terminal
+0	AJAP1/PANP, C-terminal
+0,75	AIG1-type guanine nucleotide-binding (G) domain
+0	Aftiphilin, clathrin-binding box
+0	ADP-ribosylation/Crystallin J1
+0	ADP-ribosylation factor-like protein 6-interacting protein 6
+0,4	AdipoR/Haemolysin-III-related
+1	Adhesion G protein-coupled receptor B, N-terminal domain
+0,25	Adenylyl cyclase class-3/4/guanylyl cyclase
+0	Adenylosuccinate synthetase
+0	Adenylate kinase, active site lid domain
+0	Adenylate cyclase, N-terminal
+0	Adenylate cyclase, conserved domain
+0	Adaptor protein Cbl, SH2-like domain
+0	Adaptor protein Cbl, N-terminal helical
+0	Adaptor protein Cbl, EF hand-like
+0	ADAMTS/ADAMTS-like, Spacer 1
+0	ADAMTS/ADAMTS-like, cysteine-rich domain 3
+0,5	ADAMTS, cysteine-rich domain 2
+0,666666667	ADAM, cysteine-rich domain
+0	Acyltransferase, C-terminal domain
+0	Acyl-CoA-binding protein, ACBP
+1	Acyl-CoA thioester hydrolase/bile acid-CoA amino acid N-acetyltransferase
+0	Acyl-CoA oxidase/dehydrogenase, middle domain
+0	Acyl-CoA dehydrogenase/oxidase, N-terminal
+0	Acyl-CoA dehydrogenase/oxidase C-terminal
+1	Activity-regulated cytoskeleton-associated protein, N-terminal domain
+1	Activity-regulated cytoskeleton-associated protein, C-terminal domain
+1	Activin types I and II receptor domain
+0	Active zone protein ELKS
+1	Activator of apoptosis harakiri
+0	Actin-related protein 2/3 complex subunit 5
+0	Actin-related protein 2/3 complex subunit 3
+0	Actin-related protein 2/3 complex subunit 2
+1	Actin-like protein 7A, N-terminal
+0	Actin-depolymerising factor homology domain
+0,411764706	Actin family
+0	ACT domain
+0	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain
+0	Aconitase A/isopropylmalate dehydratase small subunit, swivel domain
+1	Acetyl-coA carboxylase zinc finger domain
+0	Abscisic acid G-protein coupled receptor-like domain
+0,333333333	ABC1 atypical kinase-like domain
+0	ABC transporter-like, ATP-binding domain
+0	ABC transporter type 1, transmembrane domain
+0	AARP2CN
+0	AAA lid domain
+0	AAA ATPase, AAA+ lid domain
+1	A kinase-anchoring protein AKAP5 and AKAP12, calmodulin (CaM)-binding motif
+0	6-phosphogluconate dehydrogenase, NADP-binding
+0	60S ribosomal protein L6E
+0	60S ribosomal protein L4, C-terminal domain
+0	60S ribosomal protein L10P, insertion domain
+0	5-nucleotidase
+0	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+0	40S ribosomal protein SA, C-terminal domain
+0	3-oxo-5-alpha-steroid 4-dehydrogenase, C-terminal
+0	3-hydroxyisobutyrate dehydrogenase-like, NAD-binding domain
+0	3-beta hydroxysteroid dehydrogenase/isomerase
+0	39S ribosomal protein L42, mitochondrial
+0	3'5'-cyclic nucleotide phosphodiesterase, catalytic domain
+0	3'-5' ssDNA/RNA exonuclease TatD-like
+0	3'-5' exonuclease domain
+0	2-oxoacid dehydrogenase acyltransferase, catalytic domain
+0	2Fe-2S ferredoxin-type iron-sulfur binding domain
+0	28S ribosomal protein S24, mitochondrial
+0	2'-5'-oligoadenylate synthetase 1, domain 2/C-terminal
+0	14-3-3 domain
+0	[2Fe-2S]-binding
+0,394117647	-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
