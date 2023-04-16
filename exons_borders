@@ -14,15 +14,19 @@ while s: # new protein
         if '>' not in inp:
             len_current_exon += len(inp)
         elif inp.split('|')[0] == name:
-            if len(exons) >= 0:
+            if len(exons) == 0:
                 exons.append(len_current_exon - 1)
+            else:
+                exons.append(len_current_exon - 1 + exons[-1])
             len_current_exon = 0
 
 
         inp = f.readline()
     s = inp
-    if len(exons) >= 0:
+    if len(exons) == 0:
         exons.append(len_current_exon - 1)
+    else:
+        exons.append(len_current_exon - 1 + exons[-1])
     g.write(name)
     g.write('\n')
     g.write('|'.join(str(i) for i in exons))
